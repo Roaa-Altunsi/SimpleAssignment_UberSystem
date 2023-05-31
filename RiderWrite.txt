@@ -1,0 +1,2452 @@
+--------------- Welcome to Uber ---------------
+Command Add_Captain: Add a new captain record in the System
+
+			ID: 501
+			Name: Rida_Ahmad_Zahrani
+			Email :rida.a@gmail.com
+			Date of Birth :Wed Nov 12 00:00:00 AST 3873
+			Gender: M
+			Phone: 534528754
+			Address: Rehab
+
+			Employee ID: 3215
+			Employee Description: Full_time
+			On Leave : true
+			Driving License No: 32154254
+			Total Rides: 155
+			Rating :4.2
+
+----------------------------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+			ID: 502
+			Name: Zahid_Ali
+			Email :zahid.ali@outlook.com
+			Date of Birth :Tue May 07 00:00:00 AST 3878
+			Gender: M
+			Phone: 505487196
+			Address: Fayha
+
+			Employee ID: 3654
+			Employee Description: Part_time
+			On Leave : false
+			Driving License No: 21453654
+			Total Rides: 41
+			Rating :4.25
+
+----------------------------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+			ID: 503
+			Name: Shahid_Aman
+			Email :shah234@yahoo.com
+			Date of Birth :Mon Aug 21 00:00:00 AST 3882
+			Gender: M
+			Phone: 567894874
+			Address: Kandara
+
+			Employee ID: 3985
+			Employee Description: Full_time
+			On Leave : false
+			Driving License No: 32845621
+			Total Rides: 504
+			Rating :4.1
+
+----------------------------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+			ID: 504
+			Name: John_Zukie
+			Email :john.zu@mail.com
+			Date of Birth :Tue Apr 24 00:00:00 AST 3877
+			Gender: M
+			Phone: 525477415
+			Address: Balad
+
+			Employee ID: 3158
+			Employee Description: Part_time
+			On Leave : false
+			Driving License No: 74563215
+			Total Rides: 241
+			Rating :3.84
+
+----------------------------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+			ID: 505
+			Name: Yasser_Ali
+			Email :yass33@gmail.com
+			Date of Birth :Sat Oct 28 00:00:00 AST 3876
+			Gender: M
+			Phone: 547871054
+			Address: Rehab
+
+			Employee ID: 3633
+			Employee Description: Part_time
+			On Leave : true
+			Driving License No: 58416556
+			Total Rides: 114
+			Rating :4.58
+
+----------------------------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+			ID: 506
+			Name: Ahmed_Qahtani
+			Email :ahmed.wqa@outlook.com
+			Date of Birth :Thu Mar 18 00:00:00 AST 3875
+			Gender: M
+			Phone: 500587414
+			Address: Jamia
+
+			Employee ID: 3252
+			Employee Description: Full_time
+			On Leave : false
+			Driving License No: 12335484
+			Total Rides: 354
+			Rating :3.74
+
+----------------------------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+			ID: 507
+			Name: Zahoor_Rashid
+			Email :zahoor12@hotmail.com
+			Date of Birth :Tue Mar 15 00:00:00 AST 3881
+			Gender: M
+			Phone: 538700365
+			Address: Rehab
+
+			Employee ID: 3984
+			Employee Description: Part_time
+			On Leave : true
+			Driving License No: 17785464
+			Total Rides: 287
+			Rating :4.5
+
+----------------------------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+			ID: 508
+			Name: Amna_Ayman
+			Email :amna.22@yahoo.com
+			Date of Birth :Thu Sep 17 00:00:00 AST 3868
+			Gender: F
+			Phone: 537874123
+			Address: Jamia
+
+			Employee ID: 3451
+			Employee Description: Full_time
+			On Leave : false
+			Driving License No: 84111256
+			Total Rides: 412
+			Rating :3.8
+
+----------------------------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+			ID: 509
+			Name: Nassr_Alqahtani
+			Email :nassr42@yahoo.com
+			Date of Birth :Sun Jul 30 00:00:00 AST 3865
+			Gender: M
+			Phone: 547803485
+			Address: Kandara
+
+			Employee ID: 3325
+			Employee Description: Full_time
+			On Leave : false
+			Driving License No: 74545435
+			Total Rides: 368
+			Rating :4.45
+
+----------------------------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+			ID: 510
+			Name: Maryam_Alzahrani
+			Email :maryam@ymail.com
+			Date of Birth :Sat May 08 00:00:00 AST 3880
+			Gender: F
+			Phone: 508793215
+			Address: Fayha
+
+			Employee ID: 3759
+			Employee Description: Full_time
+			On Leave : true
+			Driving License No: 56467589
+			Total Rides: 435
+			Rating :4.11
+
+----------------------------------------------------------------
+Command Add_UberAdmin: Add a new Uber Admin record in the System
+
+			ID: 801
+			Name: Mubarak_Alghamdi
+			Email :mubarak@uber.com
+			Date of Birth :Tue Jun 08 00:00:00 AST 3897
+			Gender: M
+			Phone: 547871054
+			Address: Rehab
+
+			Employee ID: 1001
+			Employee Description: Supervisor
+			On Leave : false
+			Department: OperationXL
+
+----------------------------------------------------------------
+Command Add_UberAdmin: Add a new Uber Admin record in the System
+
+			ID: 802
+			Name: Alaa_Turki
+			Email :alaa@uber.com
+			Date of Birth :Mon Feb 14 00:00:00 AST 3881
+			Gender: M
+			Phone: 505856612
+			Address: Jamia
+
+			Employee ID: 1008
+			Employee Description: Assistant_Supervisor
+			On Leave : false
+			Department: OperationX
+
+----------------------------------------------------------------
+Command Add_UberAdmin: Add a new Uber Admin record in the System
+
+			ID: 803
+			Name: Maqbol_Alqahtani
+			Email :maqbol@uber.com
+			Date of Birth :Wed Sep 22 00:00:00 AST 3869
+			Gender: M
+			Phone: 523003344
+			Address: Kandara
+
+			Employee ID: 1054
+			Employee Description: GPS_Specialist
+			On Leave : true
+			Department: OperationXL
+
+----------------------------------------------------------------
+Command Add_UberAdmin: Add a new Uber Admin record in the System
+
+			ID: 804
+			Name: Liaqat_Jalal
+			Email :liaqat@uber.com
+			Date of Birth :Sun Nov 25 00:00:00 AST 3888
+			Gender: M
+			Phone: 547674174
+			Address: Balad
+
+			Employee ID: 1086
+			Employee Description: Manager
+			On Leave : false
+			Department: OperationPOOL
+
+----------------------------------------------------------------
+Command Add_UberAdmin: Add a new Uber Admin record in the System
+
+			ID: 805
+			Name: Basher_Bandar
+			Email :basher@uber.com
+			Date of Birth :Fri May 28 00:00:00 AST 3875
+			Gender: M
+			Phone: 554803421
+			Address: Kandara
+
+			Employee ID: 1021
+			Employee Description: Supervisor
+			On Leave : false
+			Department: OperationX
+
+----------------------------------------------------------------
+Command Add_Ride: Add a new Ride record in the System
+Ride Details are as follows:
+
+			Ride ID: 5001
+			Ride Type: UberX
+			Number of Seats: 4
+			Registration No.: LRA6452
+
+----------------------------------------------------------------
+Command Add_Ride: Add a new Ride record in the System
+Ride Details are as follows:
+
+			Ride ID: 5002
+			Ride Type: UberXL
+			Number of Seats: 7
+			Registration No.: FNO1212
+
+----------------------------------------------------------------
+Command Add_Ride: Add a new Ride record in the System
+Ride Details are as follows:
+
+			Ride ID: 5003
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: MEH8542
+
+----------------------------------------------------------------
+Command Add_Ride: Add a new Ride record in the System
+Ride Details are as follows:
+
+			Ride ID: 5004
+			Ride Type: UberX
+			Number of Seats: 6
+			Registration No.: AKA434
+
+----------------------------------------------------------------
+Command Add_Ride: Add a new Ride record in the System
+Ride Details are as follows:
+
+			Ride ID: 5005
+			Ride Type: UberX
+			Number of Seats: 7
+			Registration No.: SMA9141
+
+----------------------------------------------------------------
+Command Add_Ride: Add a new Ride record in the System
+Ride Details are as follows:
+
+			Ride ID: 5006
+			Ride Type: UberX
+			Number of Seats: 7
+			Registration No.: MAL2574
+
+----------------------------------------------------------------
+Command Add_Ride: Add a new Ride record in the System
+Ride Details are as follows:
+
+			Ride ID: 5007
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: RAS8731
+
+----------------------------------------------------------------
+Command Add_Ride: Add a new Ride record in the System
+Ride Details are as follows:
+
+			Ride ID: 5008
+			Ride Type: UberXL
+			Number of Seats: 7
+			Registration No.: WBI9814
+
+----------------------------------------------------------------
+Command Add_Ride: Add a new Ride record in the System
+Ride Details are as follows:
+
+			Ride ID: 5009
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: UAI731
+
+----------------------------------------------------------------
+Command Add_Ride: Add a new Ride record in the System
+Ride Details are as follows:
+
+			Ride ID: 5010
+			Ride Type: UberX
+			Number of Seats: 4
+			Registration No.: LAI7331
+
+----------------------------------------------------------------
+Command Add_Ride: Add a new Ride record in the System
+Ride Details are as follows:
+
+			Ride ID: 5011
+			Ride Type: UberXL
+			Number of Seats: 4
+			Registration No.: CAK5231
+
+----------------------------------------------------------------
+Command Add_Ride: Add a new Ride record in the System
+Ride Details are as follows:
+
+			Ride ID: 5012
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: FOA3231
+
+----------------------------------------------------------------
+Command Add_Ride: Add a new Ride record in the System
+Ride Details are as follows:
+
+			Ride ID: 5013
+			Ride Type: UberXL
+			Number of Seats: 7
+			Registration No.: NOM587
+
+----------------------------------------------------------------
+Command Add_Ride: Add a new Ride record in the System
+Ride Details are as follows:
+
+			Ride ID: 5014
+			Ride Type: UberX
+			Number of Seats: 4
+			Registration No.: LAK4512
+
+----------------------------------------------------------------
+Command Add_Ride: Add a new Ride record in the System
+Ride Details are as follows:
+
+			Ride ID: 5015
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: ADS8745
+
+----------------------------------------------------------------
+Command Add_Ride: Add a new Ride record in the System
+Ride Details are as follows:
+
+			Ride ID: 5016
+			Ride Type: UberXL
+			Number of Seats: 6
+			Registration No.: ONR5824
+
+----------------------------------------------------------------
+Command Add_Ride: Add a new Ride record in the System
+Ride Details are as follows:
+
+			Ride ID: 5017
+			Ride Type: Pool
+			Number of Seats: 6
+			Registration No.: GBR4438
+
+----------------------------------------------------------------
+Command Add_Ride: Add a new Ride record in the System
+Ride Details are as follows:
+
+			Ride ID: 5018
+			Ride Type: UberX
+			Number of Seats: 4
+			Registration No.: OTS4365
+
+----------------------------------------------------------------
+Command Add_Ride: Add a new Ride record in the System
+Ride Details are as follows:
+
+			Ride ID: 5019
+			Ride Type: UberXL
+			Number of Seats: 7
+			Registration No.: UTP4982
+
+----------------------------------------------------------------
+Command Add_Ride: Add a new Ride record in the System
+Ride Details are as follows:
+
+			Ride ID: 5020
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: TRA9491
+
+----------------------------------------------------------------
+Command Add_RiderBonus: Add a new Rider's Bonus record in the System
+
+			BonusID: 901
+			Bonus Description: Newly_Joined
+			bonus Kilometer(s) :17.0
+
+----------------------------------------------------------------
+Command Add_RiderBonus: Add a new Rider's Bonus record in the System
+
+			BonusID: 902
+			Bonus Description: Referral
+			bonus Kilometer(s) :25.0
+
+----------------------------------------------------------------
+Command Add_RiderBonus: Add a new Rider's Bonus record in the System
+
+			BonusID: 903
+			Bonus Description: Random
+			bonus Kilometer(s) :15.0
+
+----------------------------------------------------------------
+Command Add_RiderBonus: Add a new Rider's Bonus record in the System
+
+			BonusID: 904
+			Bonus Description: 100_Ride_Achevement
+			bonus Kilometer(s) :125.0
+
+----------------------------------------------------------------
+Command Add_RiderBonus: Add a new Rider's Bonus record in the System
+
+			BonusID: 905
+			Bonus Description: Weekly_Promotion
+			bonus Kilometer(s) :36.0
+
+----------------------------------------------------------------
+Command Add_RiderBonus: Add a new Rider's Bonus record in the System
+
+			BonusID: 906
+			Bonus Description: Monthly_Promotion
+			bonus Kilometer(s) :2.0
+
+----------------------------------------------------------------
+Command Add_RiderBonus: Add a new Rider's Bonus record in the System
+
+			BonusID: 907
+			Bonus Description: Special_Promo1
+			bonus Kilometer(s) :1.5
+
+----------------------------------------------------------------
+Command Add_RiderBonus: Add a new Rider's Bonus record in the System
+
+			BonusID: 908
+			Bonus Description: Special_Promo2
+			bonus Kilometer(s) :2.5
+
+----------------------------------------------------------------
+Command Add_RiderBonus: Add a new Rider's Bonus record in the System
+
+			BonusID: 909
+			Bonus Description: Special_Promo3
+			bonus Kilometer(s) :1.5
+
+----------------------------------------------------------------
+Command Add_RiderBonus: Add a new Rider's Bonus record in the System
+
+			BonusID: 910
+			Bonus Description: Special_Promo4
+			bonus Kilometer(s) :2.0
+
+----------------------------------------------------------------
+Command Add_Payment: Add a new payment record in the System
+
+			Payment ID: 301
+			Payment Description: Cash
+			Payment Amount :10.5
+
+----------------------------------------------------------------
+Command Add_Payment: Add a new payment record in the System
+
+			Payment ID: 302
+			Payment Description: Cash
+			Payment Amount :22.0
+
+----------------------------------------------------------------
+Command Add_Payment: Add a new payment record in the System
+
+			Payment ID: 303
+			Payment Description: Wallet
+			Payment Amount :28.0
+
+----------------------------------------------------------------
+Command Add_Payment: Add a new payment record in the System
+
+			Payment ID: 304
+			Payment Description: Cash
+			Payment Amount :36.0
+
+----------------------------------------------------------------
+Command Add_Payment: Add a new payment record in the System
+
+			Payment ID: 305
+			Payment Description: Cash
+			Payment Amount :15.0
+
+----------------------------------------------------------------
+Command Add_Payment: Add a new payment record in the System
+
+			Payment ID: 306
+			Payment Description: Cash
+			Payment Amount :8.0
+
+----------------------------------------------------------------
+Command Add_Payment: Add a new payment record in the System
+
+			Payment ID: 307
+			Payment Description: Cash
+			Payment Amount :14.0
+
+----------------------------------------------------------------
+Command Add_Payment: Add a new payment record in the System
+
+			Payment ID: 308
+			Payment Description: Wallet
+			Payment Amount :34.0
+
+----------------------------------------------------------------
+Command Add_Payment: Add a new payment record in the System
+
+			Payment ID: 309
+			Payment Description: Cash
+			Payment Amount :18.0
+
+----------------------------------------------------------------
+Command Add_Payment: Add a new payment record in the System
+
+			Payment ID: 310
+			Payment Description: Cash
+			Payment Amount :26.0
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22001
+			Name: Ismail_AlSabani
+			Email :ismail@yahoo.com
+			Date of Birth :Tue Mar 02 00:00:00 AST 3875
+			Gender: M
+			Phone: 534354554
+			Address: Madina
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR,
+
+			Pickup Location: Faisaliya,
+
+			Drop Location: Kandara,
+
+			Distance: 14.0 KM,
+
+			Joining Date: Mon May 08 00:00:00 AST 3916,
+
+			Rider Rating: 4.2
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22002
+			Name: Mohamed_Ali_AlBishi
+			Email :m12@gmail.com
+			Date of Birth :Sat Oct 28 00:00:00 AST 3876
+			Gender: M
+			Phone: 505484543
+			Address: Riyadh
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR,
+
+			Pickup Location: Azizyah,
+
+			Drop Location: Balad,
+
+			Distance: 8.2 KM,
+
+			Joining Date: Wed Oct 18 00:00:00 AST 3916,
+
+			Rider Rating: 4.8
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22003
+			Name: Mohammed_AlSalhi
+			Email :m.ali@gmail.com
+			Date of Birth :Tue Apr 13 00:00:00 AST 3875
+			Gender: M
+			Phone: 567854544
+			Address: Jeddah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR,
+
+			Pickup Location: Cornesh,
+
+			Drop Location: Rehab,
+
+			Distance: 22.5 KM,
+
+			Joining Date: Sat May 13 00:00:00 AST 3916,
+
+			Rider Rating: 4.5
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22004
+			Name: Youssef_AlMasrahi
+			Email :yous43@gmail.com
+			Date of Birth :Mon Dec 12 00:00:00 AST 3881
+			Gender: M
+			Phone: 525477415
+			Address: Riyadh
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR,
+
+			Pickup Location: Airport,
+
+			Drop Location: Jamia,
+
+			Distance: 14.6 KM,
+
+			Joining Date: Mon Apr 03 00:00:00 AST 3916,
+
+			Rider Rating: 4.3
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22005
+			Name: Fatima_AlYassin
+			Email :fat93@yahoo.com
+			Date of Birth :Sat Aug 15 00:00:00 AST 3868
+			Gender: F
+			Phone: 547871054
+			Address: Jeddah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 12.0 SAR,
+
+			Pickup Location: Rehab,
+
+			Drop Location: AlSafa,
+
+			Distance: 5.4 KM,
+
+			Joining Date: Tue Apr 04 00:00:00 AST 3916,
+
+			Rider Rating: 4.0
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22006
+			Name: Mohamed_Obaid_AlSahli
+			Email :mohamed.Obaid@yahoo.com
+			Date of Birth :Fri Jan 11 00:00:00 AST 3884
+			Gender: M
+			Phone: 500587414
+			Address: Riyadh
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR,
+
+			Pickup Location: Fayha,
+
+			Drop Location: Jamia,
+
+			Distance: 3.4 KM,
+
+			Joining Date: Mon Aug 09 00:00:00 AST 3915,
+
+			Rider Rating: 4.5
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22007
+			Name: Abdullah_Abkar_AlMouled
+			Email :abd434@gmail.com
+			Date of Birth :Sun May 17 00:00:00 AST 3868
+			Gender: M
+			Phone: 538700454
+			Address: Dammam
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR,
+
+			Pickup Location: Kandara,
+
+			Drop Location: AlSafa,
+
+			Distance: 9.0 KM,
+
+			Joining Date: Sun May 21 00:00:00 AST 3916,
+
+			Rider Rating: 4.6
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22008
+			Name: Hiba_AlMasrahi
+			Email :nm.asrahi@gmail.com
+			Date of Birth :Sun Aug 13 00:00:00 AST 3865
+			Gender: F
+			Phone: 537874123
+			Address: Madina
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 3.41 SAR,
+
+			Pickup Location: Balad,
+
+			Drop Location: Fayha,
+
+			Distance: 5.7 KM,
+
+			Joining Date: Tue Jun 27 00:00:00 AST 3916,
+
+			Rider Rating: 3.8
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22009
+			Name: Ibrahim_AlHamaidi
+			Email :ibrahim@yahoo.com
+			Date of Birth :Fri May 05 00:00:00 AST 3882
+			Gender: M
+			Phone: 507803485
+			Address: Riyadh
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR,
+
+			Pickup Location: Rehab,
+
+			Drop Location: AlSafa,
+
+			Distance: 10.6 KM,
+
+			Joining Date: Mon Apr 05 00:00:00 AST 3915,
+
+			Rider Rating: 3.6
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22010
+			Name: Hadi_Souaan_AlSomaily
+			Email :ya.fj23@gmail.com
+			Date of Birth :Mon Mar 15 00:00:00 AST 3880
+			Gender: M
+			Phone: 508793215
+			Address: Jeddah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR,
+
+			Pickup Location: Jamia,
+
+			Drop Location: Sharafiya,
+
+			Distance: 8.6 KM,
+
+			Joining Date: Tue Sep 05 00:00:00 AST 3916,
+
+			Rider Rating: 4.5
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22011
+			Name: Hamed_Hamadan_AlBishi
+			Email :jgh3@gmail.com
+			Date of Birth :Thu May 28 00:00:00 AST 3868
+			Gender: M
+			Phone: 534528754
+			Address: Makkah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 105.6 SAR,
+
+			Pickup Location: Rehab,
+
+			Drop Location: Airport,
+
+			Distance: 17.5 KM,
+
+			Joining Date: Mon Jul 03 00:00:00 AST 3916,
+
+			Rider Rating: 4.1
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22012
+			Name: Hamdan_Odha_AlBishi
+			Email :odha.AlBishi@yahoo.com
+			Date of Birth :Wed Nov 12 00:00:00 AST 3873
+			Gender: M
+			Phone: 505487196
+			Address: Jeddah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR,
+
+			Pickup Location: Jamia,
+
+			Drop Location: Azizyah,
+
+			Distance: 21.0 KM,
+
+			Joining Date: Mon May 08 00:00:00 AST 3916,
+
+			Rider Rating: 4.6
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22013
+			Name: Hamdan_Odha_AlBishi
+			Email :alam.bri@gmail.com
+			Date of Birth :Tue May 07 00:00:00 AST 3878
+			Gender: M
+			Phone: 567894874
+			Address: Jeddah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 14.8 SAR,
+
+			Pickup Location: Kandara,
+
+			Drop Location: Cornesh,
+
+			Distance: 12.5 KM,
+
+			Joining Date: Mon Jan 08 00:00:00 AST 3917,
+
+			Rider Rating: 4.4
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22014
+			Name: Moukhled_AlOutaibi
+			Email :moukhled1@gmail.com
+			Date of Birth :Mon Aug 21 00:00:00 AST 3882
+			Gender: M
+			Phone: 525477415
+			Address: Makkah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR,
+
+			Pickup Location: Fayha,
+
+			Drop Location: Airport,
+
+			Distance: 10.5 KM,
+
+			Joining Date: Sun Feb 13 00:00:00 AST 3916,
+
+			Rider Rating: 4.7
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22015
+			Name: Abdullah_Abdulaziz_AlJoud
+			Email :abd.abdulaziz@yahoo.com
+			Date of Birth :Tue Apr 24 00:00:00 AST 3877
+			Gender: M
+			Phone: 547871054
+			Address: Jeddah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR,
+
+			Pickup Location: AlSafa,
+
+			Drop Location: Azizyah,
+
+			Distance: 17.5 KM,
+
+			Joining Date: Tue Mar 16 00:00:00 AST 3915,
+
+			Rider Rating: 4.3
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22016
+			Name: Hussein_AlYami
+			Email :j.alyami@gmail.com
+			Date of Birth :Sat Oct 28 00:00:00 AST 3876
+			Gender: M
+			Phone: 500587414
+			Address: Riyadh
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 15.0 SAR,
+
+			Pickup Location: Sharafiya,
+
+			Drop Location: Cornesh,
+
+			Distance: 4.5 KM,
+
+			Joining Date: Thu May 03 00:00:00 AST 3917,
+
+			Rider Rating: 4.1
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22017
+			Name: Maya_Jamaan_AlHamdah
+			Email :maya23@yahoo.com
+			Date of Birth :Thu Mar 18 00:00:00 AST 3875
+			Gender: F
+			Phone: 538700676
+			Address: Jeddah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR,
+
+			Pickup Location: Airport,
+
+			Drop Location: Balad,
+
+			Distance: 28.5 KM,
+
+			Joining Date: Sat Oct 06 00:00:00 AST 3917,
+
+			Rider Rating: 3.9
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22018
+			Name: Alyan_Sultan_Al_Qahtani
+			Email :alyan_Sultan@gmail.com
+			Date of Birth :Sun Jan 15 00:00:00 AST 3882
+			Gender: M
+			Phone: 537874123
+			Address: Dammam
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR,
+
+			Pickup Location: Azizyah,
+
+			Drop Location: Rehab,
+
+			Distance: 5.3 KM,
+
+			Joining Date: Sat Sep 04 00:00:00 AST 3915,
+
+			Rider Rating: 3.7
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22019
+			Name: Tariq_Ahmed_AlAmri
+			Email :tariqahmed@yahoo.com
+			Date of Birth :Thu Sep 17 00:00:00 AST 3868
+			Gender: M
+			Phone: 547803485
+			Address: Madina
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 38.0 SAR,
+
+			Pickup Location: Cornesh,
+
+			Drop Location: Azizyah,
+
+			Distance: 7.5 KM,
+
+			Joining Date: Sat Aug 11 00:00:00 AST 3917,
+
+			Rider Rating: 4.5
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22020
+			Name: Nada_AlSabani
+			Email :nada_a@gmail.com
+			Date of Birth :Sun Jul 30 00:00:00 AST 3865
+			Gender: F
+			Phone: 508793352
+			Address: Jeddah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR,
+
+			Pickup Location: Airport,
+
+			Drop Location: Cornesh,
+
+			Distance: 32.5 KM,
+
+			Joining Date: Tue Dec 19 00:00:00 AST 3916,
+
+			Rider Rating: 4.0
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22021
+			Name: Mohammed_AlSalhi
+			Email :m.AlSalhi@yahoo.com
+			Date of Birth :Sat May 08 00:00:00 AST 3880
+			Gender: M
+			Phone: 534528754
+			Address: Makkah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR,
+
+			Pickup Location: Rehab,
+
+			Drop Location: Airport,
+
+			Distance: 22.6 KM,
+
+			Joining Date: Sun May 28 00:00:00 AST 3916,
+
+			Rider Rating: 4.7
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22022
+			Name: Hamed_Hamadan_AlBishi
+			Email :hamed@gmail.com
+			Date of Birth :Sun Apr 14 00:00:00 AST 3872
+			Gender: M
+			Phone: 505487196
+			Address: Riyadh
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 3.0 SAR,
+
+			Pickup Location: Azizyah,
+
+			Drop Location: Jamia,
+
+			Distance: 10.8 KM,
+
+			Joining Date: Fri Jan 14 00:00:00 AST 3916,
+
+			Rider Rating: 4.6
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22023
+			Name: Hamed_Hamadan_AlBishi
+			Email :hamed322@yahoo.com
+			Date of Birth :Sun Nov 25 00:00:00 AST 3877
+			Gender: M
+			Phone: 567894454
+			Address: Jeddah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR,
+
+			Pickup Location: Cornesh,
+
+			Drop Location: Rehab,
+
+			Distance: 13.8 KM,
+
+			Joining Date: Wed Mar 10 00:00:00 AST 3915,
+
+			Rider Rating: 4.3
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22024
+			Name: Hani_Souan_AlSomaily
+			Email :han_Sou@gmail.com
+			Date of Birth :Thu Mar 18 00:00:00 AST 3875
+			Gender: M
+			Phone: 525477415
+			Address: Jeddah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 54.5 SAR,
+
+			Pickup Location: Airport,
+
+			Drop Location: Jamia,
+
+			Distance: 28.8 KM,
+
+			Joining Date: Fri Jan 26 00:00:00 AST 3917,
+
+			Rider Rating: 4.4
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Add_Rider: Add a new Rider record in the System
+
+			ID: 22025
+			Name: Hamnah_AlSalhi
+			Email :alSalhi@yahoo.com
+			Date of Birth :Thu Aug 19 00:00:00 AST 3875
+			Gender: F
+			Phone: 547871054
+			Address: Makkah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR,
+
+			Pickup Location: Jamia,
+
+			Drop Location: Kandara,
+
+			Distance: 8.2 KM,
+
+			Joining Date: Tue Aug 21 00:00:00 AST 3917,
+
+			Rider Rating: 4.0
+-------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Ismail_AlSabani
+		Assigned to Captain: Rida_Ahmad_Zahrani
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Mohamed_Ali_AlBishi
+		Assigned to Captain: Zahid_Ali
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Mohammed_AlSalhi
+		Assigned to Captain: Shahid_Aman
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Youssef_AlMasrahi
+		Assigned to Captain: John_Zukie
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Fatima_AlYassin
+		Assigned to Captain: Yasser_Ali
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Mohamed_Obaid_AlSahli
+		Assigned to Captain: Ahmed_Qahtani
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Abdullah_Abkar_AlMouled
+		Assigned to Captain: Zahoor_Rashid
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hiba_AlMasrahi
+		Assigned to Captain: Amna_Ayman
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Ibrahim_AlHamaidi
+		Assigned to Captain: Nassr_Alqahtani
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hadi_Souaan_AlSomaily
+		Assigned to Captain: Maryam_Alzahrani
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamed_Hamadan_AlBishi
+		Assigned to Captain: Rida_Ahmad_Zahrani
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamdan_Odha_AlBishi
+		Assigned to Captain: Zahid_Ali
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamdan_Odha_AlBishi
+		Assigned to Captain: Shahid_Aman
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Moukhled_AlOutaibi
+		Assigned to Captain: John_Zukie
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Abdullah_Abdulaziz_AlJoud
+		Assigned to Captain: Yasser_Ali
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hussein_AlYami
+		Assigned to Captain: Ahmed_Qahtani
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Maya_Jamaan_AlHamdah
+		Assigned to Captain: Zahoor_Rashid
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Alyan_Sultan_Al_Qahtani
+		Assigned to Captain: Amna_Ayman
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Tariq_Ahmed_AlAmri
+		Assigned to Captain: Nassr_Alqahtani
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Nada_AlSabani
+		Assigned to Captain: Maryam_Alzahrani
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Mohammed_AlSalhi
+		Assigned to Captain: Zahid_Ali
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamed_Hamadan_AlBishi
+		Assigned to Captain: Yasser_Ali
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamed_Hamadan_AlBishi
+		Assigned to Captain: Zahoor_Rashid
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hani_Souan_AlSomaily
+		Assigned to Captain: Nassr_Alqahtani
+----------------------------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamnah_AlSalhi
+		Assigned to Captain: Maryam_Alzahrani
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Ismail_AlSabani
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5001
+			Ride Type: UberX
+			Number of Seats: 4
+			Registration No.: LRA6452
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Mohamed_Ali_AlBishi
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5002
+			Ride Type: UberXL
+			Number of Seats: 7
+			Registration No.: FNO1212
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Mohammed_AlSalhi
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5003
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: MEH8542
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Youssef_AlMasrahi
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5004
+			Ride Type: UberX
+			Number of Seats: 6
+			Registration No.: AKA434
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Fatima_AlYassin
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5005
+			Ride Type: UberX
+			Number of Seats: 7
+			Registration No.: SMA9141
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Mohamed_Obaid_AlSahli
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5006
+			Ride Type: UberX
+			Number of Seats: 7
+			Registration No.: MAL2574
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Abdullah_Abkar_AlMouled
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5007
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: RAS8731
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hiba_AlMasrahi
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5008
+			Ride Type: UberXL
+			Number of Seats: 7
+			Registration No.: WBI9814
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Ibrahim_AlHamaidi
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5009
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: UAI731
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hadi_Souaan_AlSomaily
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5010
+			Ride Type: UberX
+			Number of Seats: 4
+			Registration No.: LAI7331
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamed_Hamadan_AlBishi
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5011
+			Ride Type: UberXL
+			Number of Seats: 4
+			Registration No.: CAK5231
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamdan_Odha_AlBishi
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5012
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: FOA3231
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamdan_Odha_AlBishi
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5013
+			Ride Type: UberXL
+			Number of Seats: 7
+			Registration No.: NOM587
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Moukhled_AlOutaibi
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5014
+			Ride Type: UberX
+			Number of Seats: 4
+			Registration No.: LAK4512
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Abdullah_Abdulaziz_AlJoud
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5015
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: ADS8745
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hussein_AlYami
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5016
+			Ride Type: UberXL
+			Number of Seats: 6
+			Registration No.: ONR5824
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Maya_Jamaan_AlHamdah
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5017
+			Ride Type: Pool
+			Number of Seats: 6
+			Registration No.: GBR4438
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Alyan_Sultan_Al_Qahtani
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5018
+			Ride Type: UberX
+			Number of Seats: 4
+			Registration No.: OTS4365
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Tariq_Ahmed_AlAmri
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5019
+			Ride Type: UberXL
+			Number of Seats: 7
+			Registration No.: UTP4982
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Nada_AlSabani
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5020
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: TRA9491
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Mohammed_AlSalhi
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5020
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: TRA9491
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamed_Hamadan_AlBishi
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5020
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: TRA9491
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamed_Hamadan_AlBishi
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5020
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: TRA9491
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hani_Souan_AlSomaily
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5020
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: TRA9491
+
+----------------------------------------------------------------
+Command Assign_Ride_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamnah_AlSalhi
+		Assigned to Ride:
+Ride Details are as follows:
+
+			Ride ID: 5020
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: TRA9491
+
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Ismail_AlSabani
+		Assigned to UberAdmin: Mubarak_Alghamdi
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Mohamed_Ali_AlBishi
+		Assigned to UberAdmin: Alaa_Turki
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Mohammed_AlSalhi
+		Assigned to UberAdmin: Maqbol_Alqahtani
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Youssef_AlMasrahi
+		Assigned to UberAdmin: Liaqat_Jalal
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Fatima_AlYassin
+		Assigned to UberAdmin: Basher_Bandar
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Mohamed_Obaid_AlSahli
+		Assigned to UberAdmin: Mubarak_Alghamdi
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Abdullah_Abkar_AlMouled
+		Assigned to UberAdmin: Alaa_Turki
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hiba_AlMasrahi
+		Assigned to UberAdmin: Maqbol_Alqahtani
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Ibrahim_AlHamaidi
+		Assigned to UberAdmin: Liaqat_Jalal
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hadi_Souaan_AlSomaily
+		Assigned to UberAdmin: Basher_Bandar
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamed_Hamadan_AlBishi
+		Assigned to UberAdmin: Mubarak_Alghamdi
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamdan_Odha_AlBishi
+		Assigned to UberAdmin: Alaa_Turki
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamdan_Odha_AlBishi
+		Assigned to UberAdmin: Maqbol_Alqahtani
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Moukhled_AlOutaibi
+		Assigned to UberAdmin: Liaqat_Jalal
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Abdullah_Abdulaziz_AlJoud
+		Assigned to UberAdmin: Basher_Bandar
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hussein_AlYami
+		Assigned to UberAdmin: Mubarak_Alghamdi
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Maya_Jamaan_AlHamdah
+		Assigned to UberAdmin: Alaa_Turki
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Alyan_Sultan_Al_Qahtani
+		Assigned to UberAdmin: Maqbol_Alqahtani
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Tariq_Ahmed_AlAmri
+		Assigned to UberAdmin: Liaqat_Jalal
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Nada_AlSabani
+		Assigned to UberAdmin: Basher_Bandar
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Mohammed_AlSalhi
+		Assigned to UberAdmin: Mubarak_Alghamdi
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamed_Hamadan_AlBishi
+		Assigned to UberAdmin: Alaa_Turki
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamed_Hamadan_AlBishi
+		Assigned to UberAdmin: Maqbol_Alqahtani
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hani_Souan_AlSomaily
+		Assigned to UberAdmin: Liaqat_Jalal
+----------------------------------------------------------------
+Command Assign_UberAdmin_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamnah_AlSalhi
+		Assigned to UberAdmin: Basher_Bandar
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Ismail_AlSabani
+		 Rider Bonus added:
+			BonusID: 901
+			Bonus Description: Newly_Joined
+			bonus Kilometer(s) :17.0
+
+		 Rider Bonus added:
+			BonusID: 902
+			Bonus Description: Referral
+			bonus Kilometer(s) :25.0
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Mohamed_Ali_AlBishi
+		 Rider Bonus added:
+			BonusID: 902
+			Bonus Description: Referral
+			bonus Kilometer(s) :25.0
+
+		 Rider Bonus added:
+			BonusID: 903
+			Bonus Description: Random
+			bonus Kilometer(s) :15.0
+
+		 Rider Bonus added:
+			BonusID: 910
+			Bonus Description: Special_Promo4
+			bonus Kilometer(s) :2.0
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Mohammed_AlSalhi
+		 Rider Bonus added:
+			BonusID: 903
+			Bonus Description: Random
+			bonus Kilometer(s) :15.0
+
+		 Rider Bonus added:
+			BonusID: 904
+			Bonus Description: 100_Ride_Achevement
+			bonus Kilometer(s) :125.0
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Youssef_AlMasrahi
+		 Rider Bonus added:
+			BonusID: 904
+			Bonus Description: 100_Ride_Achevement
+			bonus Kilometer(s) :125.0
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Fatima_AlYassin
+		 Rider Bonus added:
+			BonusID: 905
+			Bonus Description: Weekly_Promotion
+			bonus Kilometer(s) :36.0
+
+		 Rider Bonus added:
+			BonusID: 901
+			Bonus Description: Newly_Joined
+			bonus Kilometer(s) :17.0
+
+		 Rider Bonus added:
+			BonusID: 902
+			Bonus Description: Referral
+			bonus Kilometer(s) :25.0
+
+		 Rider Bonus added:
+			BonusID: 904
+			Bonus Description: 100_Ride_Achevement
+			bonus Kilometer(s) :125.0
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Mohamed_Obaid_AlSahli
+		 Rider Bonus added:
+			BonusID: 906
+			Bonus Description: Monthly_Promotion
+			bonus Kilometer(s) :2.0
+
+		 Rider Bonus added:
+			BonusID: 902
+			Bonus Description: Referral
+			bonus Kilometer(s) :25.0
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Abdullah_Abkar_AlMouled
+		 Rider Bonus added:
+			BonusID: 907
+			Bonus Description: Special_Promo1
+			bonus Kilometer(s) :1.5
+
+		 Rider Bonus added:
+			BonusID: 903
+			Bonus Description: Random
+			bonus Kilometer(s) :15.0
+
+		 Rider Bonus added:
+			BonusID: 904
+			Bonus Description: 100_Ride_Achevement
+			bonus Kilometer(s) :125.0
+
+		 Rider Bonus added:
+			BonusID: 905
+			Bonus Description: Weekly_Promotion
+			bonus Kilometer(s) :36.0
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hiba_AlMasrahi
+		 Rider Bonus added:
+			BonusID: 908
+			Bonus Description: Special_Promo2
+			bonus Kilometer(s) :2.5
+
+		 Rider Bonus added:
+			BonusID: 904
+			Bonus Description: 100_Ride_Achevement
+			bonus Kilometer(s) :125.0
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Ibrahim_AlHamaidi
+		 Rider Bonus added:
+			BonusID: 909
+			Bonus Description: Special_Promo3
+			bonus Kilometer(s) :1.5
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hadi_Souaan_AlSomaily
+		 Rider Bonus added:
+			BonusID: 910
+			Bonus Description: Special_Promo4
+			bonus Kilometer(s) :2.0
+
+		 Rider Bonus added:
+			BonusID: 901
+			Bonus Description: Newly_Joined
+			bonus Kilometer(s) :17.0
+
+		 Rider Bonus added:
+			BonusID: 909
+			Bonus Description: Special_Promo3
+			bonus Kilometer(s) :1.5
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamed_Hamadan_AlBishi
+		 Rider Bonus added:
+			BonusID: 901
+			Bonus Description: Newly_Joined
+			bonus Kilometer(s) :17.0
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamdan_Odha_AlBishi
+		 Rider Bonus added:
+			BonusID: 902
+			Bonus Description: Referral
+			bonus Kilometer(s) :25.0
+
+		 Rider Bonus added:
+			BonusID: 903
+			Bonus Description: Random
+			bonus Kilometer(s) :15.0
+
+		 Rider Bonus added:
+			BonusID: 906
+			Bonus Description: Monthly_Promotion
+			bonus Kilometer(s) :2.0
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamdan_Odha_AlBishi
+		 Rider Bonus added:
+			BonusID: 903
+			Bonus Description: Random
+			bonus Kilometer(s) :15.0
+
+		 Rider Bonus added:
+			BonusID: 904
+			Bonus Description: 100_Ride_Achevement
+			bonus Kilometer(s) :125.0
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Moukhled_AlOutaibi
+		 Rider Bonus added:
+			BonusID: 904
+			Bonus Description: 100_Ride_Achevement
+			bonus Kilometer(s) :125.0
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Abdullah_Abdulaziz_AlJoud
+		 Rider Bonus added:
+			BonusID: 905
+			Bonus Description: Weekly_Promotion
+			bonus Kilometer(s) :36.0
+
+		 Rider Bonus added:
+			BonusID: 901
+			Bonus Description: Newly_Joined
+			bonus Kilometer(s) :17.0
+
+		 Rider Bonus added:
+			BonusID: 902
+			Bonus Description: Referral
+			bonus Kilometer(s) :25.0
+
+		 Rider Bonus added:
+			BonusID: 903
+			Bonus Description: Random
+			bonus Kilometer(s) :15.0
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hussein_AlYami
+		 Rider Bonus added:
+			BonusID: 906
+			Bonus Description: Monthly_Promotion
+			bonus Kilometer(s) :2.0
+
+		 Rider Bonus added:
+			BonusID: 902
+			Bonus Description: Referral
+			bonus Kilometer(s) :25.0
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Maya_Jamaan_AlHamdah
+		 Rider Bonus added:
+			BonusID: 907
+			Bonus Description: Special_Promo1
+			bonus Kilometer(s) :1.5
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Alyan_Sultan_Al_Qahtani
+		 Rider Bonus added:
+			BonusID: 908
+			Bonus Description: Special_Promo2
+			bonus Kilometer(s) :2.5
+
+		 Rider Bonus added:
+			BonusID: 904
+			Bonus Description: 100_Ride_Achevement
+			bonus Kilometer(s) :125.0
+
+		 Rider Bonus added:
+			BonusID: 905
+			Bonus Description: Weekly_Promotion
+			bonus Kilometer(s) :36.0
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Tariq_Ahmed_AlAmri
+		 Rider Bonus added:
+			BonusID: 909
+			Bonus Description: Special_Promo3
+			bonus Kilometer(s) :1.5
+
+		 Rider Bonus added:
+			BonusID: 905
+			Bonus Description: Weekly_Promotion
+			bonus Kilometer(s) :36.0
+
+		 Rider Bonus added:
+			BonusID: 907
+			Bonus Description: Special_Promo1
+			bonus Kilometer(s) :1.5
+
+		 Rider Bonus added:
+			BonusID: 908
+			Bonus Description: Special_Promo2
+			bonus Kilometer(s) :2.5
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Nada_AlSabani
+		 Rider Bonus added:
+			BonusID: 910
+			Bonus Description: Special_Promo4
+			bonus Kilometer(s) :2.0
+
+		 Rider Bonus added:
+			BonusID: 901
+			Bonus Description: Newly_Joined
+			bonus Kilometer(s) :17.0
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Mohammed_AlSalhi
+		 Rider Bonus added:
+			BonusID: 901
+			Bonus Description: Newly_Joined
+			bonus Kilometer(s) :17.0
+
+		 Rider Bonus added:
+			BonusID: 902
+			Bonus Description: Referral
+			bonus Kilometer(s) :25.0
+
+		 Rider Bonus added:
+			BonusID: 908
+			Bonus Description: Special_Promo2
+			bonus Kilometer(s) :2.5
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamed_Hamadan_AlBishi
+		 Rider Bonus added:
+			BonusID: 902
+			Bonus Description: Referral
+			bonus Kilometer(s) :25.0
+
+		 Rider Bonus added:
+			BonusID: 903
+			Bonus Description: Random
+			bonus Kilometer(s) :15.0
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamed_Hamadan_AlBishi
+		 Rider Bonus added:
+			BonusID: 903
+			Bonus Description: Random
+			bonus Kilometer(s) :15.0
+
+		 Rider Bonus added:
+			BonusID: 904
+			Bonus Description: 100_Ride_Achevement
+			bonus Kilometer(s) :125.0
+
+		 Rider Bonus added:
+			BonusID: 905
+			Bonus Description: Weekly_Promotion
+			bonus Kilometer(s) :36.0
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hani_Souan_AlSomaily
+		 Rider Bonus added:
+			BonusID: 904
+			Bonus Description: 100_Ride_Achevement
+			bonus Kilometer(s) :125.0
+
+		 Rider Bonus added:
+			BonusID: 905
+			Bonus Description: Weekly_Promotion
+			bonus Kilometer(s) :36.0
+
+		 Rider Bonus added:
+			BonusID: 901
+			Bonus Description: Newly_Joined
+			bonus Kilometer(s) :17.0
+
+		 Rider Bonus added:
+			BonusID: 902
+			Bonus Description: Referral
+			bonus Kilometer(s) :25.0
+
+----------------------------------------------------------------
+Command Assign_RiderBonus_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamnah_AlSalhi
+		 Rider Bonus added:
+			BonusID: 905
+			Bonus Description: Weekly_Promotion
+			bonus Kilometer(s) :36.0
+
+		 Rider Bonus added:
+			BonusID: 901
+			Bonus Description: Newly_Joined
+			bonus Kilometer(s) :17.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Ismail_AlSabani
+		 Payment added:
+			Payment ID: 301
+			Payment Description: Cash
+			Payment Amount :10.5
+
+		 Payment added:
+			Payment ID: 302
+			Payment Description: Cash
+			Payment Amount :22.0
+
+		 Payment added:
+			Payment ID: 303
+			Payment Description: Wallet
+			Payment Amount :28.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Mohamed_Ali_AlBishi
+		 Payment added:
+			Payment ID: 302
+			Payment Description: Cash
+			Payment Amount :22.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Mohammed_AlSalhi
+		 Payment added:
+			Payment ID: 303
+			Payment Description: Wallet
+			Payment Amount :28.0
+
+		 Payment added:
+			Payment ID: 304
+			Payment Description: Cash
+			Payment Amount :36.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Youssef_AlMasrahi
+		 Payment added:
+			Payment ID: 304
+			Payment Description: Cash
+			Payment Amount :36.0
+
+		 Payment added:
+			Payment ID: 305
+			Payment Description: Cash
+			Payment Amount :15.0
+
+		 Payment added:
+			Payment ID: 306
+			Payment Description: Cash
+			Payment Amount :8.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Fatima_AlYassin
+		 Payment added:
+			Payment ID: 305
+			Payment Description: Cash
+			Payment Amount :15.0
+
+		 Payment added:
+			Payment ID: 306
+			Payment Description: Cash
+			Payment Amount :8.0
+
+		 Payment added:
+			Payment ID: 307
+			Payment Description: Cash
+			Payment Amount :14.0
+
+		 Payment added:
+			Payment ID: 308
+			Payment Description: Wallet
+			Payment Amount :34.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Mohamed_Obaid_AlSahli
+		 Payment added:
+			Payment ID: 306
+			Payment Description: Cash
+			Payment Amount :8.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Abdullah_Abkar_AlMouled
+		 Payment added:
+			Payment ID: 307
+			Payment Description: Cash
+			Payment Amount :14.0
+
+		 Payment added:
+			Payment ID: 308
+			Payment Description: Wallet
+			Payment Amount :34.0
+
+		 Payment added:
+			Payment ID: 309
+			Payment Description: Cash
+			Payment Amount :18.0
+
+		 Payment added:
+			Payment ID: 310
+			Payment Description: Cash
+			Payment Amount :26.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hiba_AlMasrahi
+		 Payment added:
+			Payment ID: 308
+			Payment Description: Wallet
+			Payment Amount :34.0
+
+		 Payment added:
+			Payment ID: 309
+			Payment Description: Cash
+			Payment Amount :18.0
+
+		 Payment added:
+			Payment ID: 310
+			Payment Description: Cash
+			Payment Amount :26.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Ibrahim_AlHamaidi
+		 Payment added:
+			Payment ID: 309
+			Payment Description: Cash
+			Payment Amount :18.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hadi_Souaan_AlSomaily
+		 Payment added:
+			Payment ID: 310
+			Payment Description: Cash
+			Payment Amount :26.0
+
+		 Payment added:
+			Payment ID: 304
+			Payment Description: Cash
+			Payment Amount :36.0
+
+		 Payment added:
+			Payment ID: 305
+			Payment Description: Cash
+			Payment Amount :15.0
+
+		 Payment added:
+			Payment ID: 309
+			Payment Description: Cash
+			Payment Amount :18.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamed_Hamadan_AlBishi
+		 Payment added:
+			Payment ID: 301
+			Payment Description: Cash
+			Payment Amount :10.5
+
+		 Payment added:
+			Payment ID: 303
+			Payment Description: Wallet
+			Payment Amount :28.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamdan_Odha_AlBishi
+		 Payment added:
+			Payment ID: 302
+			Payment Description: Cash
+			Payment Amount :22.0
+
+		 Payment added:
+			Payment ID: 307
+			Payment Description: Cash
+			Payment Amount :14.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamdan_Odha_AlBishi
+		 Payment added:
+			Payment ID: 303
+			Payment Description: Wallet
+			Payment Amount :28.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Moukhled_AlOutaibi
+		 Payment added:
+			Payment ID: 304
+			Payment Description: Cash
+			Payment Amount :36.0
+
+		 Payment added:
+			Payment ID: 303
+			Payment Description: Wallet
+			Payment Amount :28.0
+
+		 Payment added:
+			Payment ID: 305
+			Payment Description: Cash
+			Payment Amount :15.0
+
+		 Payment added:
+			Payment ID: 308
+			Payment Description: Wallet
+			Payment Amount :34.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Abdullah_Abdulaziz_AlJoud
+		 Payment added:
+			Payment ID: 305
+			Payment Description: Cash
+			Payment Amount :15.0
+
+		 Payment added:
+			Payment ID: 301
+			Payment Description: Cash
+			Payment Amount :10.5
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hussein_AlYami
+		 Payment added:
+			Payment ID: 306
+			Payment Description: Cash
+			Payment Amount :8.0
+
+		 Payment added:
+			Payment ID: 302
+			Payment Description: Cash
+			Payment Amount :22.0
+
+		 Payment added:
+			Payment ID: 303
+			Payment Description: Wallet
+			Payment Amount :28.0
+
+		 Payment added:
+			Payment ID: 304
+			Payment Description: Cash
+			Payment Amount :36.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Maya_Jamaan_AlHamdah
+		 Payment added:
+			Payment ID: 307
+			Payment Description: Cash
+			Payment Amount :14.0
+
+		 Payment added:
+			Payment ID: 303
+			Payment Description: Wallet
+			Payment Amount :28.0
+
+		 Payment added:
+			Payment ID: 304
+			Payment Description: Cash
+			Payment Amount :36.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Alyan_Sultan_Al_Qahtani
+		 Payment added:
+			Payment ID: 308
+			Payment Description: Wallet
+			Payment Amount :34.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Tariq_Ahmed_AlAmri
+		 Payment added:
+			Payment ID: 309
+			Payment Description: Cash
+			Payment Amount :18.0
+
+		 Payment added:
+			Payment ID: 305
+			Payment Description: Cash
+			Payment Amount :15.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Nada_AlSabani
+		 Payment added:
+			Payment ID: 310
+			Payment Description: Cash
+			Payment Amount :26.0
+
+		 Payment added:
+			Payment ID: 306
+			Payment Description: Cash
+			Payment Amount :8.0
+
+		 Payment added:
+			Payment ID: 307
+			Payment Description: Cash
+			Payment Amount :14.0
+
+		 Payment added:
+			Payment ID: 308
+			Payment Description: Wallet
+			Payment Amount :34.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Mohammed_AlSalhi
+		 Payment added:
+			Payment ID: 301
+			Payment Description: Cash
+			Payment Amount :10.5
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamed_Hamadan_AlBishi
+		 Payment added:
+			Payment ID: 302
+			Payment Description: Cash
+			Payment Amount :22.0
+
+		 Payment added:
+			Payment ID: 308
+			Payment Description: Wallet
+			Payment Amount :34.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamed_Hamadan_AlBishi
+		 Payment added:
+			Payment ID: 303
+			Payment Description: Wallet
+			Payment Amount :28.0
+
+		 Payment added:
+			Payment ID: 309
+			Payment Description: Cash
+			Payment Amount :18.0
+
+		 Payment added:
+			Payment ID: 301
+			Payment Description: Cash
+			Payment Amount :10.5
+
+		 Payment added:
+			Payment ID: 305
+			Payment Description: Cash
+			Payment Amount :15.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hani_Souan_AlSomaily
+		 Payment added:
+			Payment ID: 304
+			Payment Description: Cash
+			Payment Amount :36.0
+
+		 Payment added:
+			Payment ID: 310
+			Payment Description: Cash
+			Payment Amount :26.0
+
+----------------------------------------------------------------
+Command Assign_Payment_Rider: Successfully Processed by the System, Following are the details:
+		Rider: Hamnah_AlSalhi
+		 Payment added:
+			Payment ID: 305
+			Payment Description: Cash
+			Payment Amount :15.0
+
+		 Payment added:
+			Payment ID: 304
+			Payment Description: Cash
+			Payment Amount :36.0
+
+		 Payment added:
+			Payment ID: 307
+			Payment Description: Cash
+			Payment Amount :14.0
+
+----------------------------------------------------------------
+Thank you for using Uber System, Good Bye!

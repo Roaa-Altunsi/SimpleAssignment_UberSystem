@@ -1,0 +1,107 @@
+--------------- Welcome to Uber ---------------
+--------- Current Date :  Thu Nov 25 11:47:33 AST 2021--------
+Command: Print_Report
+
+		--- Rider Detail are as Follows: ---
+
+			ID: 22007
+			Name: Abdullah_Abkar_AlMouled
+			Email :abd434@gmail.com
+			Date of Birth :Sun May 17 00:00:00 AST 3868
+			Gender: M
+			Phone: 538700454
+			Address: Dammam
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR
+
+			Pickup Location: Kandara
+
+			Drop Location: AlSafa
+
+			Distance: 9.0 KM
+
+			Joining Date: Sun May 21 00:00:00 AST 3916
+
+			Rider Rating: 4.6
+-------------------------------------------------------------------------------------------
+		--- Captain Detail are as Follows: ---
+
+			ID: 507
+			Name: Zahoor_Rashid
+			Email :zahoor12@hotmail.com
+			Date of Birth :Tue Mar 15 00:00:00 AST 3881
+			Gender: M
+			Phone: 538700365
+			Address: Rehab
+
+			Employee ID: 3984
+			Employee Description: Part_time
+			On Leave : true
+			Driving License No: 17785464
+			Total Rides: 287
+			Rating :4.5
+			-------------------------------------------------------------------------------------------
+		--- UberAdmin Detail are as Follows: ---
+
+			ID: 802
+			Name: Alaa_Turki
+			Email :alaa@uber.com
+			Date of Birth :Mon Feb 14 00:00:00 AST 3881
+			Gender: M
+			Phone: 505856612
+			Address: Jamia
+
+			Employee ID: 1008
+			Employee Description: Assistant_Supervisor
+			On Leave : false
+			Department: OperationX
+			-------------------------------------------------------------------------------------------
+		---Payment Details are as follows:---
+
+			Payment ID: 307
+			Payment Description: Cash
+			Payment Amount :14.0
+
+			Payment ID: 308
+			Payment Description: Wallet
+			Payment Amount :34.0
+
+			Payment ID: 309
+			Payment Description: Cash
+			Payment Amount :18.0
+
+			Payment ID: 310
+			Payment Description: Cash
+			Payment Amount :26.0
+			-------------------------------------------------------------------------------------------
+		---Bonus Details are as follows:---
+
+			BonusID: 907
+			Bonus Description: Special_Promo1
+			bonus Kilometer(s) :1.5
+
+			BonusID: 903
+			Bonus Description: Random
+			bonus Kilometer(s) :15.0
+
+			BonusID: 904
+			Bonus Description: 100_Ride_Achevement
+			bonus Kilometer(s) :125.0
+
+			BonusID: 905
+			Bonus Description: Weekly_Promotion
+			bonus Kilometer(s) :36.0
+			-------------------------------------------------------------------------------------------
+		---Ride Details are as follows:---
+Ride Details are as follows:
+
+			Ride ID: 5007
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: RAS8731
+			-------------------------------------------------------------------------------------------
+		---Total Net Payment :-85.5---
+	-----------------------------------
+
+

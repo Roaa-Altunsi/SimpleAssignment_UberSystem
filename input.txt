@@ -1,0 +1,209 @@
+10 5 20 10 10 25
+Add_Captain 32154254 155 4.2 3215 Full_time true 501 Rida_Ahmad_Zahrani rida.a@gmail.com 1973 10 12 M 534528754 Rehab     
+Add_Captain 21453654 41 4.25 3654 Part_time false 502 Zahid_Ali zahid.ali@outlook.com 1978 4 7 M 505487196 Fayha     
+Add_Captain 32845621 504 4.1 3985 Full_time false 503 Shahid_Aman shah234@yahoo.com 1982 7 21 M 567894874 Kandara     
+Add_Captain 74563215 241 3.84 3158 Part_time false 504 John_Zukie john.zu@mail.com 1977 3 24 M 525477415 Balad     
+Add_Captain 58416556 114 4.58 3633 Part_time true 505 Yasser_Ali yass33@gmail.com 1976 9 28 M 547871054 Rehab     
+Add_Captain 12335484 354 3.74 3252 Full_time false 506 Ahmed_Qahtani ahmed.wqa@outlook.com 1975 2 18 M 500587414 Jamia     
+Add_Captain 17785464 287 4.5 3984 Part_time true 507 Zahoor_Rashid zahoor12@hotmail.com 1981 2 15 M 538700365 Rehab     
+Add_Captain 84111256 412 3.8 3451 Full_time false 508 Amna_Ayman amna.22@yahoo.com 1968 8 17 F 537874123 Jamia     
+Add_Captain 74545435 368 4.45 3325 Full_time false 509 Nassr_Alqahtani nassr42@yahoo.com 1965 6 30 M 547803485 Kandara     
+Add_Captain 56467589 435 4.11 3759 Full_time true 510 Maryam_Alzahrani maryam@ymail.com 1980 4 8 F 508793215 Fayha     
+Add_UberAdmin OperationXL 1001 Supervisor false 801 Mubarak_Alghamdi mubarak@uber.com 1997 5 8 M 547871054 Rehab       
+Add_UberAdmin OperationX 1008 Assistant_Supervisor false 802 Alaa_Turki alaa@uber.com 1981 1 14 M 505856612 Jamia       
+Add_UberAdmin OperationXL 1054 GPS_Specialist true 803 Maqbol_Alqahtani maqbol@uber.com 1969 8 22 M 523003344 Kandara       
+Add_UberAdmin OperationPOOL 1086 Manager false 804 Liaqat_Jalal liaqat@uber.com 1988 10 25 M 547674174 Balad       
+Add_UberAdmin OperationX 1021 Supervisor false 805 Basher_Bandar basher@uber.com 1975 4 28 M 554803421 Kandara       
+Add_Ride 5001 UberX 4 LRA6452                
+Add_Ride 5002 UberXL 7 FNO1212                
+Add_Ride 5003 Pool 4 MEH8542                
+Add_Ride 5004 UberX 6 AKA434                
+Add_Ride 5005 UberX 7 SMA9141                
+Add_Ride 5006 UberX 7 MAL2574                
+Add_Ride 5007 Pool 4 RAS8731                
+Add_Ride 5008 UberXL 7 WBI9814                
+Add_Ride 5009 Pool 4 UAI731                
+Add_Ride 5010 UberX 4 LAI7331                
+Add_Ride 5011 UberXL 4 CAK5231                
+Add_Ride 5012 Pool 4 FOA3231                
+Add_Ride 5013 UberXL 7 NOM587                
+Add_Ride 5014 UberX 4 LAK4512                
+Add_Ride 5015 Pool 4 ADS8745                
+Add_Ride 5016 UberXL 6 ONR5824                
+Add_Ride 5017 Pool 6 GBR4438                
+Add_Ride 5018 UberX 4 OTS4365                
+Add_Ride 5019 UberXL 7 UTP4982                
+Add_Ride 5020 Pool 4 TRA9491                
+Add_RiderBonus 901 Newly_Joined 17                 
+Add_RiderBonus 902 Referral 25                 
+Add_RiderBonus 903 Random 15                 
+Add_RiderBonus 904 100_Ride_Achevement 125                 
+Add_RiderBonus 905 Weekly_Promotion 36                 
+Add_RiderBonus 906 Monthly_Promotion 2                 
+Add_RiderBonus 907 Special_Promo1 1.5                 
+Add_RiderBonus 908 Special_Promo2 2.5                 
+Add_RiderBonus 909 Special_Promo3 1.5                 
+Add_RiderBonus 910 Special_Promo4 2                 
+Add_Payment 301 Cash 10.5                 
+Add_Payment 302 Cash 22                 
+Add_Payment 303 Wallet 28                 
+Add_Payment 304 Cash 36                 
+Add_Payment 305 Cash 15                 
+Add_Payment 306 Cash 8                 
+Add_Payment 307 Cash 14                 
+Add_Payment 308 Wallet 34                 
+Add_Payment 309 Cash 18                 
+Add_Payment 310 Cash 26                 
+Add_Rider 0 Faisaliya Kandara 14 2016 4 8 4.2 22001 Ismail_AlSabani ismail@yahoo.com 1975 2 2 M 534354554 Madina 3 2 
+Add_Rider 0 Azizyah Balad 8.2 2016 9 18 4.8 22002 Mohamed_Ali_AlBishi m12@gmail.com 1976 9 28 M 505484543 Riyadh 1 3 
+Add_Rider 0 Cornesh Rehab 22.5 2016 4 13 4.5 22003 Mohammed_AlSalhi m.ali@gmail.com 1975 3 13 M 567854544 Jeddah 2 2 
+Add_Rider 0 Airport Jamia 14.6 2016 3 3 4.3 22004 Youssef_AlMasrahi yous43@gmail.com 1981 11 12 M 525477415 Riyadh 3 1 
+Add_Rider 12 Rehab AlSafa 5.4 2016 3 4 4 22005 Fatima_AlYassin fat93@yahoo.com 1968 7 15 F 547871054 Jeddah 4 4 
+Add_Rider 0 Fayha Jamia 3.4 2015 7 9 4.5 22006 Mohamed_Obaid_AlSahli mohamed.Obaid@yahoo.com 1983 12 11 M 500587414 Riyadh 1 2 
+Add_Rider 0 Kandara AlSafa 9 2016 4 21 4.6 22007 Abdullah_Abkar_AlMouled abd434@gmail.com 1968 4 17 M 538700454 Dammam 4 4 
+Add_Rider 3.41 Balad Fayha 5.7 2016 5 27 3.8 22008 Hiba_AlMasrahi nm.asrahi@gmail.com 1965 7 13 F 537874123 Madina 3 2 
+Add_Rider 0 Rehab AlSafa 10.6 2015 3 5 3.6 22009 Ibrahim_AlHamaidi ibrahim@yahoo.com 1982 4 5 M 507803485 Riyadh 1 1 
+Add_Rider 0 Jamia Sharafiya 8.6 2016 8 5 4.5 22010 Hadi_Souaan_AlSomaily ya.fj23@gmail.com 1980 2 15 M 508793215 Jeddah 4 3 
+Add_Rider 105.6 Rehab Airport 17.5 2016 6 3 4.1 22011 Hamed_Hamadan_AlBishi jgh3@gmail.com 1968 4 28 M 534528754 Makkah 2 1 
+Add_Rider 0 Jamia Azizyah 21 2016 4 8 4.6 22012 Hamdan_Odha_AlBishi odha.AlBishi@yahoo.com 1973 10 12 M 505487196 Jeddah 2 3 
+Add_Rider 14.8 Kandara Cornesh 12.5 2016 12 8 4.4 22013 Hamdan_Odha_AlBishi alam.bri@gmail.com 1978 4 7 M 567894874 Jeddah 1 2 
+Add_Rider 0 Fayha Airport 10.5 2016 1 13 4.7 22014 Moukhled_AlOutaibi moukhled1@gmail.com 1982 7 21 M 525477415 Makkah 4 1 
+Add_Rider 0 AlSafa Azizyah 17.5 2015 2 16 4.3 22015 Abdullah_Abdulaziz_AlJoud abd.abdulaziz@yahoo.com 1977 3 24 M 547871054 Jeddah 2 4 
+Add_Rider 15 Sharafiya Cornesh 4.5 2017 4 3 4.1 22016 Hussein_AlYami j.alyami@gmail.com 1976 9 28 M 500587414 Riyadh 4 2 
+Add_Rider 0 Airport Balad 28.5 2017 9 6 3.9 22017 Maya_Jamaan_AlHamdah maya23@yahoo.com 1975 2 18 F 538700676 Jeddah 3 1 
+Add_Rider 0 Azizyah Rehab 5.3 2015 8 4 3.7 22018 Alyan_Sultan_Al_Qahtani alyan_Sultan@gmail.com 1981 12 15 M 537874123 Dammam 1 3 
+Add_Rider 38 Cornesh Azizyah 7.5 2017 7 11 4.5 22019 Tariq_Ahmed_AlAmri tariqahmed@yahoo.com 1968 8 17 M 547803485 Madina 2 4 
+Add_Rider 0 Airport Cornesh 32.5 2016 11 19 4 22020 Nada_AlSabani nada_a@gmail.com 1965 6 30 F 508793352 Jeddah 4 2 
+Add_Rider 0 Rehab Airport 22.6 2016 4 28 4.7 22021 Mohammed_AlSalhi m.AlSalhi@yahoo.com 1980 4 8 M 534528754 Makkah 1 3 
+Add_Rider 3 Azizyah Jamia 10.8 2015 12 14 4.6 22022 Hamed_Hamadan_AlBishi hamed@gmail.com 1972 3 14 M 505487196 Riyadh 2 2 
+Add_Rider 0 Cornesh Rehab 13.8 2015 2 10 4.3 22023 Hamed_Hamadan_AlBishi hamed322@yahoo.com 1977 10 25 M 567894454 Jeddah 4 3 
+Add_Rider 54.5 Airport Jamia 28.8 2016 12 26 4.4 22024 Hani_Souan_AlSomaily han_Sou@gmail.com 1975 2 18 M 525477415 Jeddah 2 4 
+Add_Rider 0 Jamia Kandara 8.2 2017 7 21 4 22025 Hamnah_AlSalhi alSalhi@yahoo.com 1975 7 19 F 547871054 Makkah 3 2 
+Assign_Captain_Rider 501 22001                  
+Assign_Captain_Rider 502 22002                  
+Assign_Captain_Rider 503 22003                  
+Assign_Captain_Rider 504 22004                  
+Assign_Captain_Rider 505 22005                  
+Assign_Captain_Rider 506 22006                  
+Assign_Captain_Rider 507 22007                  
+Assign_Captain_Rider 508 22008                  
+Assign_Captain_Rider 509 22009                  
+Assign_Captain_Rider 510 22010                  
+Assign_Captain_Rider 501 22011                  
+Assign_Captain_Rider 502 22012                  
+Assign_Captain_Rider 503 22013                  
+Assign_Captain_Rider 504 22014                  
+Assign_Captain_Rider 505 22015                  
+Assign_Captain_Rider 506 22016                  
+Assign_Captain_Rider 507 22017                  
+Assign_Captain_Rider 508 22018                  
+Assign_Captain_Rider 509 22019                  
+Assign_Captain_Rider 510 22020                  
+Assign_Captain_Rider 502 22021                  
+Assign_Captain_Rider 505 22022                  
+Assign_Captain_Rider 507 22023                  
+Assign_Captain_Rider 509 22024                  
+Assign_Captain_Rider 510 22025                  
+Assign_Ride_Rider 5001 22001
+Assign_Ride_Rider 5002 22002
+Assign_Ride_Rider 5003 22003
+Assign_Ride_Rider 5004 22004
+Assign_Ride_Rider 5005 22005
+Assign_Ride_Rider 5006 22006
+Assign_Ride_Rider 5007 22007
+Assign_Ride_Rider 5008 22008
+Assign_Ride_Rider 5009 22009
+Assign_Ride_Rider 5010 22010
+Assign_Ride_Rider 5011 22011
+Assign_Ride_Rider 5012 22012
+Assign_Ride_Rider 5013 22013
+Assign_Ride_Rider 5014 22014
+Assign_Ride_Rider 5015 22015
+Assign_Ride_Rider 5016 22016
+Assign_Ride_Rider 5017 22017
+Assign_Ride_Rider 5018 22018
+Assign_Ride_Rider 5019 22019
+Assign_Ride_Rider 5020 22020
+Assign_Ride_Rider 5020 22021
+Assign_Ride_Rider 5020 22022
+Assign_Ride_Rider 5020 22023
+Assign_Ride_Rider 5020 22024
+Assign_Ride_Rider 5020 22025
+                 
+Assign_UberAdmin_Rider 801 22001                  
+Assign_UberAdmin_Rider 802 22002                  
+Assign_UberAdmin_Rider 803 22003                  
+Assign_UberAdmin_Rider 804 22004                  
+Assign_UberAdmin_Rider 805 22005                  
+Assign_UberAdmin_Rider 801 22006                  
+Assign_UberAdmin_Rider 802 22007                  
+Assign_UberAdmin_Rider 803 22008                  
+Assign_UberAdmin_Rider 804 22009                  
+Assign_UberAdmin_Rider 805 22010                  
+Assign_UberAdmin_Rider 801 22011                  
+Assign_UberAdmin_Rider 802 22012                  
+Assign_UberAdmin_Rider 803 22013                  
+Assign_UberAdmin_Rider 804 22014                  
+Assign_UberAdmin_Rider 805 22015                  
+Assign_UberAdmin_Rider 801 22016                  
+Assign_UberAdmin_Rider 802 22017                  
+Assign_UberAdmin_Rider 803 22018                  
+Assign_UberAdmin_Rider 804 22019                  
+Assign_UberAdmin_Rider 805 22020                  
+Assign_UberAdmin_Rider 801 22021                  
+Assign_UberAdmin_Rider 802 22022                  
+Assign_UberAdmin_Rider 803 22023                  
+Assign_UberAdmin_Rider 804 22024                  
+Assign_UberAdmin_Rider 805 22025                  
+Assign_RiderBonus_Rider 22001 901 902                 
+Assign_RiderBonus_Rider 22002 902 903 910                
+Assign_RiderBonus_Rider 22003 903 904                 
+Assign_RiderBonus_Rider 22004 904                  
+Assign_RiderBonus_Rider 22005 905 901 902 904               
+Assign_RiderBonus_Rider 22006 906 902                 
+Assign_RiderBonus_Rider 22007 907 903 904 905               
+Assign_RiderBonus_Rider 22008 908 904                 
+Assign_RiderBonus_Rider 22009 909                  
+Assign_RiderBonus_Rider 22010 910 901 909                
+Assign_RiderBonus_Rider 22011 901                  
+Assign_RiderBonus_Rider 22012 902 903 906                
+Assign_RiderBonus_Rider 22013 903 904                 
+Assign_RiderBonus_Rider 22014 904                  
+Assign_RiderBonus_Rider 22015 905 901 902 903               
+Assign_RiderBonus_Rider 22016 906 902                 
+Assign_RiderBonus_Rider 22017 907                  
+Assign_RiderBonus_Rider 22018 908 904 905                
+Assign_RiderBonus_Rider 22019 909 905 907 908               
+Assign_RiderBonus_Rider 22020 910 901                 
+Assign_RiderBonus_Rider 22021 901 902 908                
+Assign_RiderBonus_Rider 22022 902 903                 
+Assign_RiderBonus_Rider 22023 903 904 905                
+Assign_RiderBonus_Rider 22024 904 905 901 902               
+Assign_RiderBonus_Rider 22025 905 901                 
+Assign_Payment_Rider 22001 301 302 303                
+Assign_Payment_Rider 22002 302                  
+Assign_Payment_Rider 22003 303 304                 
+Assign_Payment_Rider 22004 304 305 306                
+Assign_Payment_Rider 22005 305 306 307 308               
+Assign_Payment_Rider 22006 306                  
+Assign_Payment_Rider 22007 307 308 309 310               
+Assign_Payment_Rider 22008 308 309 310                
+Assign_Payment_Rider 22009 309                  
+Assign_Payment_Rider 22010 310 304 305 309               
+Assign_Payment_Rider 22011 301 303                 
+Assign_Payment_Rider 22012 302 307                 
+Assign_Payment_Rider 22013 303                  
+Assign_Payment_Rider 22014 304 303 305 308               
+Assign_Payment_Rider 22015 305 301                 
+Assign_Payment_Rider 22016 306 302 303 304               
+Assign_Payment_Rider 22017 307 303 304                
+Assign_Payment_Rider 22018 308                  
+Assign_Payment_Rider 22019 309 305                 
+Assign_Payment_Rider 22020 310 306 307 308               
+Assign_Payment_Rider 22021 301                  
+Assign_Payment_Rider 22022 302 308                 
+Assign_Payment_Rider 22023 303 309 301 305               
+Assign_Payment_Rider 22024 304 310                 
+Assign_Payment_Rider 22025 305 304 307                
+Print_Report                    
+Quit                    

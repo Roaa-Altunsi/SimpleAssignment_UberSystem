@@ -1,0 +1,95 @@
+--------------- Welcome to Uber ---------------
+--------- Current Date :  Thu Nov 25 11:47:33 AST 2021--------
+Command: Print_Report
+
+		--- Rider Detail are as Follows: ---
+
+			ID: 22012
+			Name: Hamdan_Odha_AlBishi
+			Email :odha.AlBishi@yahoo.com
+			Date of Birth :Wed Nov 12 00:00:00 AST 3873
+			Gender: M
+			Phone: 505487196
+			Address: Jeddah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR
+
+			Pickup Location: Jamia
+
+			Drop Location: Azizyah
+
+			Distance: 21.0 KM
+
+			Joining Date: Mon May 08 00:00:00 AST 3916
+
+			Rider Rating: 4.6
+-------------------------------------------------------------------------------------------
+		--- Captain Detail are as Follows: ---
+
+			ID: 502
+			Name: Zahid_Ali
+			Email :zahid.ali@outlook.com
+			Date of Birth :Tue May 07 00:00:00 AST 3878
+			Gender: M
+			Phone: 505487196
+			Address: Fayha
+
+			Employee ID: 3654
+			Employee Description: Part_time
+			On Leave : false
+			Driving License No: 21453654
+			Total Rides: 41
+			Rating :4.25
+			-------------------------------------------------------------------------------------------
+		--- UberAdmin Detail are as Follows: ---
+
+			ID: 802
+			Name: Alaa_Turki
+			Email :alaa@uber.com
+			Date of Birth :Mon Feb 14 00:00:00 AST 3881
+			Gender: M
+			Phone: 505856612
+			Address: Jamia
+
+			Employee ID: 1008
+			Employee Description: Assistant_Supervisor
+			On Leave : false
+			Department: OperationX
+			-------------------------------------------------------------------------------------------
+		---Payment Details are as follows:---
+
+			Payment ID: 302
+			Payment Description: Cash
+			Payment Amount :22.0
+
+			Payment ID: 307
+			Payment Description: Cash
+			Payment Amount :14.0
+			-------------------------------------------------------------------------------------------
+		---Bonus Details are as follows:---
+
+			BonusID: 902
+			Bonus Description: Referral
+			bonus Kilometer(s) :25.0
+
+			BonusID: 903
+			Bonus Description: Random
+			bonus Kilometer(s) :15.0
+
+			BonusID: 906
+			Bonus Description: Monthly_Promotion
+			bonus Kilometer(s) :2.0
+			-------------------------------------------------------------------------------------------
+		---Ride Details are as follows:---
+Ride Details are as follows:
+
+			Ride ID: 5012
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: FOA3231
+			-------------------------------------------------------------------------------------------
+		---Total Net Payment :-6.0---
+	-----------------------------------
+
+

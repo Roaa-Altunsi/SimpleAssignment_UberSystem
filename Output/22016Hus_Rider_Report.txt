@@ -1,0 +1,99 @@
+--------------- Welcome to Uber ---------------
+--------- Current Date :  Thu Nov 25 11:47:33 AST 2021--------
+Command: Print_Report
+
+		--- Rider Detail are as Follows: ---
+
+			ID: 22016
+			Name: Hussein_AlYami
+			Email :j.alyami@gmail.com
+			Date of Birth :Sat Oct 28 00:00:00 AST 3876
+			Gender: M
+			Phone: 500587414
+			Address: Riyadh
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 15.0 SAR
+
+			Pickup Location: Sharafiya
+
+			Drop Location: Cornesh
+
+			Distance: 4.5 KM
+
+			Joining Date: Thu May 03 00:00:00 AST 3917
+
+			Rider Rating: 4.1
+-------------------------------------------------------------------------------------------
+		--- Captain Detail are as Follows: ---
+
+			ID: 506
+			Name: Ahmed_Qahtani
+			Email :ahmed.wqa@outlook.com
+			Date of Birth :Thu Mar 18 00:00:00 AST 3875
+			Gender: M
+			Phone: 500587414
+			Address: Jamia
+
+			Employee ID: 3252
+			Employee Description: Full_time
+			On Leave : false
+			Driving License No: 12335484
+			Total Rides: 354
+			Rating :3.74
+			-------------------------------------------------------------------------------------------
+		--- UberAdmin Detail are as Follows: ---
+
+			ID: 801
+			Name: Mubarak_Alghamdi
+			Email :mubarak@uber.com
+			Date of Birth :Tue Jun 08 00:00:00 AST 3897
+			Gender: M
+			Phone: 547871054
+			Address: Rehab
+
+			Employee ID: 1001
+			Employee Description: Supervisor
+			On Leave : false
+			Department: OperationXL
+			-------------------------------------------------------------------------------------------
+		---Payment Details are as follows:---
+
+			Payment ID: 306
+			Payment Description: Cash
+			Payment Amount :8.0
+
+			Payment ID: 302
+			Payment Description: Cash
+			Payment Amount :22.0
+
+			Payment ID: 303
+			Payment Description: Wallet
+			Payment Amount :28.0
+
+			Payment ID: 304
+			Payment Description: Cash
+			Payment Amount :36.0
+			-------------------------------------------------------------------------------------------
+		---Bonus Details are as follows:---
+
+			BonusID: 906
+			Bonus Description: Monthly_Promotion
+			bonus Kilometer(s) :2.0
+
+			BonusID: 902
+			Bonus Description: Referral
+			bonus Kilometer(s) :25.0
+			-------------------------------------------------------------------------------------------
+		---Ride Details are as follows:---
+Ride Details are as follows:
+
+			Ride ID: 5016
+			Ride Type: UberXL
+			Number of Seats: 6
+			Registration No.: ONR5824
+			-------------------------------------------------------------------------------------------
+		---Total Net Payment :67.0---
+	-----------------------------------
+
+

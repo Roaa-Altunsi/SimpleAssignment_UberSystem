@@ -1,0 +1,91 @@
+--------------- Welcome to Uber ---------------
+--------- Current Date :  Thu Nov 25 11:47:33 AST 2021--------
+Command: Print_Report
+
+		--- Rider Detail are as Follows: ---
+
+			ID: 22004
+			Name: Youssef_AlMasrahi
+			Email :yous43@gmail.com
+			Date of Birth :Mon Dec 12 00:00:00 AST 3881
+			Gender: M
+			Phone: 525477415
+			Address: Riyadh
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR
+
+			Pickup Location: Airport
+
+			Drop Location: Jamia
+
+			Distance: 14.6 KM
+
+			Joining Date: Mon Apr 03 00:00:00 AST 3916
+
+			Rider Rating: 4.3
+-------------------------------------------------------------------------------------------
+		--- Captain Detail are as Follows: ---
+
+			ID: 504
+			Name: John_Zukie
+			Email :john.zu@mail.com
+			Date of Birth :Tue Apr 24 00:00:00 AST 3877
+			Gender: M
+			Phone: 525477415
+			Address: Balad
+
+			Employee ID: 3158
+			Employee Description: Part_time
+			On Leave : false
+			Driving License No: 74563215
+			Total Rides: 241
+			Rating :3.84
+			-------------------------------------------------------------------------------------------
+		--- UberAdmin Detail are as Follows: ---
+
+			ID: 804
+			Name: Liaqat_Jalal
+			Email :liaqat@uber.com
+			Date of Birth :Sun Nov 25 00:00:00 AST 3888
+			Gender: M
+			Phone: 547674174
+			Address: Balad
+
+			Employee ID: 1086
+			Employee Description: Manager
+			On Leave : false
+			Department: OperationPOOL
+			-------------------------------------------------------------------------------------------
+		---Payment Details are as follows:---
+
+			Payment ID: 304
+			Payment Description: Cash
+			Payment Amount :36.0
+
+			Payment ID: 305
+			Payment Description: Cash
+			Payment Amount :15.0
+
+			Payment ID: 306
+			Payment Description: Cash
+			Payment Amount :8.0
+			-------------------------------------------------------------------------------------------
+		---Bonus Details are as follows:---
+
+			BonusID: 904
+			Bonus Description: 100_Ride_Achevement
+			bonus Kilometer(s) :125.0
+			-------------------------------------------------------------------------------------------
+		---Ride Details are as follows:---
+Ride Details are as follows:
+
+			Ride ID: 5004
+			Ride Type: UberX
+			Number of Seats: 6
+			Registration No.: AKA434
+			-------------------------------------------------------------------------------------------
+		---Total Net Payment :-66.0---
+	-----------------------------------
+
+

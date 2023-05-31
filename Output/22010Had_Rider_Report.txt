@@ -1,0 +1,103 @@
+--------------- Welcome to Uber ---------------
+--------- Current Date :  Thu Nov 25 11:47:33 AST 2021--------
+Command: Print_Report
+
+		--- Rider Detail are as Follows: ---
+
+			ID: 22010
+			Name: Hadi_Souaan_AlSomaily
+			Email :ya.fj23@gmail.com
+			Date of Birth :Mon Mar 15 00:00:00 AST 3880
+			Gender: M
+			Phone: 508793215
+			Address: Jeddah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR
+
+			Pickup Location: Jamia
+
+			Drop Location: Sharafiya
+
+			Distance: 8.6 KM
+
+			Joining Date: Tue Sep 05 00:00:00 AST 3916
+
+			Rider Rating: 4.5
+-------------------------------------------------------------------------------------------
+		--- Captain Detail are as Follows: ---
+
+			ID: 510
+			Name: Maryam_Alzahrani
+			Email :maryam@ymail.com
+			Date of Birth :Sat May 08 00:00:00 AST 3880
+			Gender: F
+			Phone: 508793215
+			Address: Fayha
+
+			Employee ID: 3759
+			Employee Description: Full_time
+			On Leave : true
+			Driving License No: 56467589
+			Total Rides: 435
+			Rating :4.11
+			-------------------------------------------------------------------------------------------
+		--- UberAdmin Detail are as Follows: ---
+
+			ID: 805
+			Name: Basher_Bandar
+			Email :basher@uber.com
+			Date of Birth :Fri May 28 00:00:00 AST 3875
+			Gender: M
+			Phone: 554803421
+			Address: Kandara
+
+			Employee ID: 1021
+			Employee Description: Supervisor
+			On Leave : false
+			Department: OperationX
+			-------------------------------------------------------------------------------------------
+		---Payment Details are as follows:---
+
+			Payment ID: 310
+			Payment Description: Cash
+			Payment Amount :26.0
+
+			Payment ID: 304
+			Payment Description: Cash
+			Payment Amount :36.0
+
+			Payment ID: 305
+			Payment Description: Cash
+			Payment Amount :15.0
+
+			Payment ID: 309
+			Payment Description: Cash
+			Payment Amount :18.0
+			-------------------------------------------------------------------------------------------
+		---Bonus Details are as follows:---
+
+			BonusID: 910
+			Bonus Description: Special_Promo4
+			bonus Kilometer(s) :2.0
+
+			BonusID: 901
+			Bonus Description: Newly_Joined
+			bonus Kilometer(s) :17.0
+
+			BonusID: 909
+			Bonus Description: Special_Promo3
+			bonus Kilometer(s) :1.5
+			-------------------------------------------------------------------------------------------
+		---Ride Details are as follows:---
+Ride Details are as follows:
+
+			Ride ID: 5010
+			Ride Type: UberX
+			Number of Seats: 4
+			Registration No.: LAI7331
+			-------------------------------------------------------------------------------------------
+		---Total Net Payment :74.5---
+	-----------------------------------
+
+

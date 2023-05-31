@@ -1,0 +1,91 @@
+--------------- Welcome to Uber ---------------
+--------- Current Date :  Thu Nov 25 11:47:33 AST 2021--------
+Command: Print_Report
+
+		--- Rider Detail are as Follows: ---
+
+			ID: 22021
+			Name: Mohammed_AlSalhi
+			Email :m.AlSalhi@yahoo.com
+			Date of Birth :Sat May 08 00:00:00 AST 3880
+			Gender: M
+			Phone: 534528754
+			Address: Makkah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR
+
+			Pickup Location: Rehab
+
+			Drop Location: Airport
+
+			Distance: 22.6 KM
+
+			Joining Date: Sun May 28 00:00:00 AST 3916
+
+			Rider Rating: 4.7
+-------------------------------------------------------------------------------------------
+		--- Captain Detail are as Follows: ---
+
+			ID: 502
+			Name: Zahid_Ali
+			Email :zahid.ali@outlook.com
+			Date of Birth :Tue May 07 00:00:00 AST 3878
+			Gender: M
+			Phone: 505487196
+			Address: Fayha
+
+			Employee ID: 3654
+			Employee Description: Part_time
+			On Leave : false
+			Driving License No: 21453654
+			Total Rides: 41
+			Rating :4.25
+			-------------------------------------------------------------------------------------------
+		--- UberAdmin Detail are as Follows: ---
+
+			ID: 801
+			Name: Mubarak_Alghamdi
+			Email :mubarak@uber.com
+			Date of Birth :Tue Jun 08 00:00:00 AST 3897
+			Gender: M
+			Phone: 547871054
+			Address: Rehab
+
+			Employee ID: 1001
+			Employee Description: Supervisor
+			On Leave : false
+			Department: OperationXL
+			-------------------------------------------------------------------------------------------
+		---Payment Details are as follows:---
+
+			Payment ID: 301
+			Payment Description: Cash
+			Payment Amount :10.5
+			-------------------------------------------------------------------------------------------
+		---Bonus Details are as follows:---
+
+			BonusID: 901
+			Bonus Description: Newly_Joined
+			bonus Kilometer(s) :17.0
+
+			BonusID: 902
+			Bonus Description: Referral
+			bonus Kilometer(s) :25.0
+
+			BonusID: 908
+			Bonus Description: Special_Promo2
+			bonus Kilometer(s) :2.5
+			-------------------------------------------------------------------------------------------
+		---Ride Details are as follows:---
+Ride Details are as follows:
+
+			Ride ID: 5020
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: TRA9491
+			-------------------------------------------------------------------------------------------
+		---Total Net Payment :-34.0---
+	-----------------------------------
+
+

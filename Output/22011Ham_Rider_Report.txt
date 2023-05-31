@@ -1,0 +1,87 @@
+--------------- Welcome to Uber ---------------
+--------- Current Date :  Thu Nov 25 11:47:33 AST 2021--------
+Command: Print_Report
+
+		--- Rider Detail are as Follows: ---
+
+			ID: 22011
+			Name: Hamed_Hamadan_AlBishi
+			Email :jgh3@gmail.com
+			Date of Birth :Thu May 28 00:00:00 AST 3868
+			Gender: M
+			Phone: 534528754
+			Address: Makkah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 105.6 SAR
+
+			Pickup Location: Rehab
+
+			Drop Location: Airport
+
+			Distance: 17.5 KM
+
+			Joining Date: Mon Jul 03 00:00:00 AST 3916
+
+			Rider Rating: 4.1
+-------------------------------------------------------------------------------------------
+		--- Captain Detail are as Follows: ---
+
+			ID: 501
+			Name: Rida_Ahmad_Zahrani
+			Email :rida.a@gmail.com
+			Date of Birth :Wed Nov 12 00:00:00 AST 3873
+			Gender: M
+			Phone: 534528754
+			Address: Rehab
+
+			Employee ID: 3215
+			Employee Description: Full_time
+			On Leave : true
+			Driving License No: 32154254
+			Total Rides: 155
+			Rating :4.2
+			-------------------------------------------------------------------------------------------
+		--- UberAdmin Detail are as Follows: ---
+
+			ID: 801
+			Name: Mubarak_Alghamdi
+			Email :mubarak@uber.com
+			Date of Birth :Tue Jun 08 00:00:00 AST 3897
+			Gender: M
+			Phone: 547871054
+			Address: Rehab
+
+			Employee ID: 1001
+			Employee Description: Supervisor
+			On Leave : false
+			Department: OperationXL
+			-------------------------------------------------------------------------------------------
+		---Payment Details are as follows:---
+
+			Payment ID: 301
+			Payment Description: Cash
+			Payment Amount :10.5
+
+			Payment ID: 303
+			Payment Description: Wallet
+			Payment Amount :28.0
+			-------------------------------------------------------------------------------------------
+		---Bonus Details are as follows:---
+
+			BonusID: 901
+			Bonus Description: Newly_Joined
+			bonus Kilometer(s) :17.0
+			-------------------------------------------------------------------------------------------
+		---Ride Details are as follows:---
+Ride Details are as follows:
+
+			Ride ID: 5011
+			Ride Type: UberXL
+			Number of Seats: 4
+			Registration No.: CAK5231
+			-------------------------------------------------------------------------------------------
+		---Total Net Payment :21.5---
+	-----------------------------------
+
+

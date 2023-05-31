@@ -1,0 +1,99 @@
+--------------- Welcome to Uber ---------------
+--------- Current Date :  Thu Nov 25 11:47:33 AST 2021--------
+Command: Print_Report
+
+		--- Rider Detail are as Follows: ---
+
+			ID: 22024
+			Name: Hani_Souan_AlSomaily
+			Email :han_Sou@gmail.com
+			Date of Birth :Thu Mar 18 00:00:00 AST 3875
+			Gender: M
+			Phone: 525477415
+			Address: Jeddah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 54.5 SAR
+
+			Pickup Location: Airport
+
+			Drop Location: Jamia
+
+			Distance: 28.8 KM
+
+			Joining Date: Fri Jan 26 00:00:00 AST 3917
+
+			Rider Rating: 4.4
+-------------------------------------------------------------------------------------------
+		--- Captain Detail are as Follows: ---
+
+			ID: 509
+			Name: Nassr_Alqahtani
+			Email :nassr42@yahoo.com
+			Date of Birth :Sun Jul 30 00:00:00 AST 3865
+			Gender: M
+			Phone: 547803485
+			Address: Kandara
+
+			Employee ID: 3325
+			Employee Description: Full_time
+			On Leave : false
+			Driving License No: 74545435
+			Total Rides: 368
+			Rating :4.45
+			-------------------------------------------------------------------------------------------
+		--- UberAdmin Detail are as Follows: ---
+
+			ID: 804
+			Name: Liaqat_Jalal
+			Email :liaqat@uber.com
+			Date of Birth :Sun Nov 25 00:00:00 AST 3888
+			Gender: M
+			Phone: 547674174
+			Address: Balad
+
+			Employee ID: 1086
+			Employee Description: Manager
+			On Leave : false
+			Department: OperationPOOL
+			-------------------------------------------------------------------------------------------
+		---Payment Details are as follows:---
+
+			Payment ID: 304
+			Payment Description: Cash
+			Payment Amount :36.0
+
+			Payment ID: 310
+			Payment Description: Cash
+			Payment Amount :26.0
+			-------------------------------------------------------------------------------------------
+		---Bonus Details are as follows:---
+
+			BonusID: 904
+			Bonus Description: 100_Ride_Achevement
+			bonus Kilometer(s) :125.0
+
+			BonusID: 905
+			Bonus Description: Weekly_Promotion
+			bonus Kilometer(s) :36.0
+
+			BonusID: 901
+			Bonus Description: Newly_Joined
+			bonus Kilometer(s) :17.0
+
+			BonusID: 902
+			Bonus Description: Referral
+			bonus Kilometer(s) :25.0
+			-------------------------------------------------------------------------------------------
+		---Ride Details are as follows:---
+Ride Details are as follows:
+
+			Ride ID: 5020
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: TRA9491
+			-------------------------------------------------------------------------------------------
+		---Total Net Payment :-141.0---
+	-----------------------------------
+
+

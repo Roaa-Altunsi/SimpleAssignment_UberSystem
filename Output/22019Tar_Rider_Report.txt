@@ -1,0 +1,99 @@
+--------------- Welcome to Uber ---------------
+--------- Current Date :  Thu Nov 25 11:47:33 AST 2021--------
+Command: Print_Report
+
+		--- Rider Detail are as Follows: ---
+
+			ID: 22019
+			Name: Tariq_Ahmed_AlAmri
+			Email :tariqahmed@yahoo.com
+			Date of Birth :Thu Sep 17 00:00:00 AST 3868
+			Gender: M
+			Phone: 547803485
+			Address: Madina
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 38.0 SAR
+
+			Pickup Location: Cornesh
+
+			Drop Location: Azizyah
+
+			Distance: 7.5 KM
+
+			Joining Date: Sat Aug 11 00:00:00 AST 3917
+
+			Rider Rating: 4.5
+-------------------------------------------------------------------------------------------
+		--- Captain Detail are as Follows: ---
+
+			ID: 509
+			Name: Nassr_Alqahtani
+			Email :nassr42@yahoo.com
+			Date of Birth :Sun Jul 30 00:00:00 AST 3865
+			Gender: M
+			Phone: 547803485
+			Address: Kandara
+
+			Employee ID: 3325
+			Employee Description: Full_time
+			On Leave : false
+			Driving License No: 74545435
+			Total Rides: 368
+			Rating :4.45
+			-------------------------------------------------------------------------------------------
+		--- UberAdmin Detail are as Follows: ---
+
+			ID: 804
+			Name: Liaqat_Jalal
+			Email :liaqat@uber.com
+			Date of Birth :Sun Nov 25 00:00:00 AST 3888
+			Gender: M
+			Phone: 547674174
+			Address: Balad
+
+			Employee ID: 1086
+			Employee Description: Manager
+			On Leave : false
+			Department: OperationPOOL
+			-------------------------------------------------------------------------------------------
+		---Payment Details are as follows:---
+
+			Payment ID: 309
+			Payment Description: Cash
+			Payment Amount :18.0
+
+			Payment ID: 305
+			Payment Description: Cash
+			Payment Amount :15.0
+			-------------------------------------------------------------------------------------------
+		---Bonus Details are as follows:---
+
+			BonusID: 909
+			Bonus Description: Special_Promo3
+			bonus Kilometer(s) :1.5
+
+			BonusID: 905
+			Bonus Description: Weekly_Promotion
+			bonus Kilometer(s) :36.0
+
+			BonusID: 907
+			Bonus Description: Special_Promo1
+			bonus Kilometer(s) :1.5
+
+			BonusID: 908
+			Bonus Description: Special_Promo2
+			bonus Kilometer(s) :2.5
+			-------------------------------------------------------------------------------------------
+		---Ride Details are as follows:---
+Ride Details are as follows:
+
+			Ride ID: 5019
+			Ride Type: UberXL
+			Number of Seats: 7
+			Registration No.: UTP4982
+			-------------------------------------------------------------------------------------------
+		---Total Net Payment :-8.5---
+	-----------------------------------
+
+

@@ -1,0 +1,99 @@
+--------------- Welcome to Uber ---------------
+--------- Current Date :  Thu Nov 25 11:47:33 AST 2021--------
+Command: Print_Report
+
+		--- Rider Detail are as Follows: ---
+
+			ID: 22015
+			Name: Abdullah_Abdulaziz_AlJoud
+			Email :abd.abdulaziz@yahoo.com
+			Date of Birth :Tue Apr 24 00:00:00 AST 3877
+			Gender: M
+			Phone: 547871054
+			Address: Jeddah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR
+
+			Pickup Location: AlSafa
+
+			Drop Location: Azizyah
+
+			Distance: 17.5 KM
+
+			Joining Date: Tue Mar 16 00:00:00 AST 3915
+
+			Rider Rating: 4.3
+-------------------------------------------------------------------------------------------
+		--- Captain Detail are as Follows: ---
+
+			ID: 505
+			Name: Yasser_Ali
+			Email :yass33@gmail.com
+			Date of Birth :Sat Oct 28 00:00:00 AST 3876
+			Gender: M
+			Phone: 547871054
+			Address: Rehab
+
+			Employee ID: 3633
+			Employee Description: Part_time
+			On Leave : true
+			Driving License No: 58416556
+			Total Rides: 114
+			Rating :4.58
+			-------------------------------------------------------------------------------------------
+		--- UberAdmin Detail are as Follows: ---
+
+			ID: 805
+			Name: Basher_Bandar
+			Email :basher@uber.com
+			Date of Birth :Fri May 28 00:00:00 AST 3875
+			Gender: M
+			Phone: 554803421
+			Address: Kandara
+
+			Employee ID: 1021
+			Employee Description: Supervisor
+			On Leave : false
+			Department: OperationX
+			-------------------------------------------------------------------------------------------
+		---Payment Details are as follows:---
+
+			Payment ID: 305
+			Payment Description: Cash
+			Payment Amount :15.0
+
+			Payment ID: 301
+			Payment Description: Cash
+			Payment Amount :10.5
+			-------------------------------------------------------------------------------------------
+		---Bonus Details are as follows:---
+
+			BonusID: 905
+			Bonus Description: Weekly_Promotion
+			bonus Kilometer(s) :36.0
+
+			BonusID: 901
+			Bonus Description: Newly_Joined
+			bonus Kilometer(s) :17.0
+
+			BonusID: 902
+			Bonus Description: Referral
+			bonus Kilometer(s) :25.0
+
+			BonusID: 903
+			Bonus Description: Random
+			bonus Kilometer(s) :15.0
+			-------------------------------------------------------------------------------------------
+		---Ride Details are as follows:---
+Ride Details are as follows:
+
+			Ride ID: 5015
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: ADS8745
+			-------------------------------------------------------------------------------------------
+		---Total Net Payment :-67.5---
+	-----------------------------------
+
+

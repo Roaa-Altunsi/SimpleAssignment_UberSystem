@@ -1,0 +1,91 @@
+--------------- Welcome to Uber ---------------
+--------- Current Date :  Thu Nov 25 11:47:33 AST 2021--------
+Command: Print_Report
+
+		--- Rider Detail are as Follows: ---
+
+			ID: 22017
+			Name: Maya_Jamaan_AlHamdah
+			Email :maya23@yahoo.com
+			Date of Birth :Thu Mar 18 00:00:00 AST 3875
+			Gender: F
+			Phone: 538700676
+			Address: Jeddah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR
+
+			Pickup Location: Airport
+
+			Drop Location: Balad
+
+			Distance: 28.5 KM
+
+			Joining Date: Sat Oct 06 00:00:00 AST 3917
+
+			Rider Rating: 3.9
+-------------------------------------------------------------------------------------------
+		--- Captain Detail are as Follows: ---
+
+			ID: 507
+			Name: Zahoor_Rashid
+			Email :zahoor12@hotmail.com
+			Date of Birth :Tue Mar 15 00:00:00 AST 3881
+			Gender: M
+			Phone: 538700365
+			Address: Rehab
+
+			Employee ID: 3984
+			Employee Description: Part_time
+			On Leave : true
+			Driving License No: 17785464
+			Total Rides: 287
+			Rating :4.5
+			-------------------------------------------------------------------------------------------
+		--- UberAdmin Detail are as Follows: ---
+
+			ID: 802
+			Name: Alaa_Turki
+			Email :alaa@uber.com
+			Date of Birth :Mon Feb 14 00:00:00 AST 3881
+			Gender: M
+			Phone: 505856612
+			Address: Jamia
+
+			Employee ID: 1008
+			Employee Description: Assistant_Supervisor
+			On Leave : false
+			Department: OperationX
+			-------------------------------------------------------------------------------------------
+		---Payment Details are as follows:---
+
+			Payment ID: 307
+			Payment Description: Cash
+			Payment Amount :14.0
+
+			Payment ID: 303
+			Payment Description: Wallet
+			Payment Amount :28.0
+
+			Payment ID: 304
+			Payment Description: Cash
+			Payment Amount :36.0
+			-------------------------------------------------------------------------------------------
+		---Bonus Details are as follows:---
+
+			BonusID: 907
+			Bonus Description: Special_Promo1
+			bonus Kilometer(s) :1.5
+			-------------------------------------------------------------------------------------------
+		---Ride Details are as follows:---
+Ride Details are as follows:
+
+			Ride ID: 5017
+			Ride Type: Pool
+			Number of Seats: 6
+			Registration No.: GBR4438
+			-------------------------------------------------------------------------------------------
+		---Total Net Payment :76.5---
+	-----------------------------------
+
+

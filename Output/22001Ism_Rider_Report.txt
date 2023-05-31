@@ -1,0 +1,95 @@
+--------------- Welcome to Uber ---------------
+--------- Current Date :  Thu Nov 25 11:47:33 AST 2021--------
+Command: Print_Report
+
+		--- Rider Detail are as Follows: ---
+
+			ID: 22001
+			Name: Ismail_AlSabani
+			Email :ismail@yahoo.com
+			Date of Birth :Tue Mar 02 00:00:00 AST 3875
+			Gender: M
+			Phone: 534354554
+			Address: Madina
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR
+
+			Pickup Location: Faisaliya
+
+			Drop Location: Kandara
+
+			Distance: 14.0 KM
+
+			Joining Date: Mon May 08 00:00:00 AST 3916
+
+			Rider Rating: 4.2
+-------------------------------------------------------------------------------------------
+		--- Captain Detail are as Follows: ---
+
+			ID: 501
+			Name: Rida_Ahmad_Zahrani
+			Email :rida.a@gmail.com
+			Date of Birth :Wed Nov 12 00:00:00 AST 3873
+			Gender: M
+			Phone: 534528754
+			Address: Rehab
+
+			Employee ID: 3215
+			Employee Description: Full_time
+			On Leave : true
+			Driving License No: 32154254
+			Total Rides: 155
+			Rating :4.2
+			-------------------------------------------------------------------------------------------
+		--- UberAdmin Detail are as Follows: ---
+
+			ID: 801
+			Name: Mubarak_Alghamdi
+			Email :mubarak@uber.com
+			Date of Birth :Tue Jun 08 00:00:00 AST 3897
+			Gender: M
+			Phone: 547871054
+			Address: Rehab
+
+			Employee ID: 1001
+			Employee Description: Supervisor
+			On Leave : false
+			Department: OperationXL
+			-------------------------------------------------------------------------------------------
+		---Payment Details are as follows:---
+
+			Payment ID: 301
+			Payment Description: Cash
+			Payment Amount :10.5
+
+			Payment ID: 302
+			Payment Description: Cash
+			Payment Amount :22.0
+
+			Payment ID: 303
+			Payment Description: Wallet
+			Payment Amount :28.0
+			-------------------------------------------------------------------------------------------
+		---Bonus Details are as follows:---
+
+			BonusID: 901
+			Bonus Description: Newly_Joined
+			bonus Kilometer(s) :17.0
+
+			BonusID: 902
+			Bonus Description: Referral
+			bonus Kilometer(s) :25.0
+			-------------------------------------------------------------------------------------------
+		---Ride Details are as follows:---
+Ride Details are as follows:
+
+			Ride ID: 5001
+			Ride Type: UberX
+			Number of Seats: 4
+			Registration No.: LRA6452
+			-------------------------------------------------------------------------------------------
+		---Total Net Payment :18.5---
+	-----------------------------------
+
+

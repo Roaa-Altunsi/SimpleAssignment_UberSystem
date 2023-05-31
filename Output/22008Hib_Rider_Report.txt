@@ -1,0 +1,95 @@
+--------------- Welcome to Uber ---------------
+--------- Current Date :  Thu Nov 25 11:47:33 AST 2021--------
+Command: Print_Report
+
+		--- Rider Detail are as Follows: ---
+
+			ID: 22008
+			Name: Hiba_AlMasrahi
+			Email :nm.asrahi@gmail.com
+			Date of Birth :Sun Aug 13 00:00:00 AST 3865
+			Gender: F
+			Phone: 537874123
+			Address: Madina
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 3.41 SAR
+
+			Pickup Location: Balad
+
+			Drop Location: Fayha
+
+			Distance: 5.7 KM
+
+			Joining Date: Tue Jun 27 00:00:00 AST 3916
+
+			Rider Rating: 3.8
+-------------------------------------------------------------------------------------------
+		--- Captain Detail are as Follows: ---
+
+			ID: 508
+			Name: Amna_Ayman
+			Email :amna.22@yahoo.com
+			Date of Birth :Thu Sep 17 00:00:00 AST 3868
+			Gender: F
+			Phone: 537874123
+			Address: Jamia
+
+			Employee ID: 3451
+			Employee Description: Full_time
+			On Leave : false
+			Driving License No: 84111256
+			Total Rides: 412
+			Rating :3.8
+			-------------------------------------------------------------------------------------------
+		--- UberAdmin Detail are as Follows: ---
+
+			ID: 803
+			Name: Maqbol_Alqahtani
+			Email :maqbol@uber.com
+			Date of Birth :Wed Sep 22 00:00:00 AST 3869
+			Gender: M
+			Phone: 523003344
+			Address: Kandara
+
+			Employee ID: 1054
+			Employee Description: GPS_Specialist
+			On Leave : true
+			Department: OperationXL
+			-------------------------------------------------------------------------------------------
+		---Payment Details are as follows:---
+
+			Payment ID: 308
+			Payment Description: Wallet
+			Payment Amount :34.0
+
+			Payment ID: 309
+			Payment Description: Cash
+			Payment Amount :18.0
+
+			Payment ID: 310
+			Payment Description: Cash
+			Payment Amount :26.0
+			-------------------------------------------------------------------------------------------
+		---Bonus Details are as follows:---
+
+			BonusID: 908
+			Bonus Description: Special_Promo2
+			bonus Kilometer(s) :2.5
+
+			BonusID: 904
+			Bonus Description: 100_Ride_Achevement
+			bonus Kilometer(s) :125.0
+			-------------------------------------------------------------------------------------------
+		---Ride Details are as follows:---
+Ride Details are as follows:
+
+			Ride ID: 5008
+			Ride Type: UberXL
+			Number of Seats: 7
+			Registration No.: WBI9814
+			-------------------------------------------------------------------------------------------
+		---Total Net Payment :-49.5---
+	-----------------------------------
+
+

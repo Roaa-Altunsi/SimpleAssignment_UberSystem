@@ -1,0 +1,87 @@
+--------------- Welcome to Uber ---------------
+--------- Current Date :  Thu Nov 25 11:47:33 AST 2021--------
+Command: Print_Report
+
+		--- Rider Detail are as Follows: ---
+
+			ID: 22013
+			Name: Hamdan_Odha_AlBishi
+			Email :alam.bri@gmail.com
+			Date of Birth :Tue May 07 00:00:00 AST 3878
+			Gender: M
+			Phone: 567894874
+			Address: Jeddah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 14.8 SAR
+
+			Pickup Location: Kandara
+
+			Drop Location: Cornesh
+
+			Distance: 12.5 KM
+
+			Joining Date: Mon Jan 08 00:00:00 AST 3917
+
+			Rider Rating: 4.4
+-------------------------------------------------------------------------------------------
+		--- Captain Detail are as Follows: ---
+
+			ID: 503
+			Name: Shahid_Aman
+			Email :shah234@yahoo.com
+			Date of Birth :Mon Aug 21 00:00:00 AST 3882
+			Gender: M
+			Phone: 567894874
+			Address: Kandara
+
+			Employee ID: 3985
+			Employee Description: Full_time
+			On Leave : false
+			Driving License No: 32845621
+			Total Rides: 504
+			Rating :4.1
+			-------------------------------------------------------------------------------------------
+		--- UberAdmin Detail are as Follows: ---
+
+			ID: 803
+			Name: Maqbol_Alqahtani
+			Email :maqbol@uber.com
+			Date of Birth :Wed Sep 22 00:00:00 AST 3869
+			Gender: M
+			Phone: 523003344
+			Address: Kandara
+
+			Employee ID: 1054
+			Employee Description: GPS_Specialist
+			On Leave : true
+			Department: OperationXL
+			-------------------------------------------------------------------------------------------
+		---Payment Details are as follows:---
+
+			Payment ID: 303
+			Payment Description: Wallet
+			Payment Amount :28.0
+			-------------------------------------------------------------------------------------------
+		---Bonus Details are as follows:---
+
+			BonusID: 903
+			Bonus Description: Random
+			bonus Kilometer(s) :15.0
+
+			BonusID: 904
+			Bonus Description: 100_Ride_Achevement
+			bonus Kilometer(s) :125.0
+			-------------------------------------------------------------------------------------------
+		---Ride Details are as follows:---
+Ride Details are as follows:
+
+			Ride ID: 5013
+			Ride Type: UberXL
+			Number of Seats: 7
+			Registration No.: NOM587
+			-------------------------------------------------------------------------------------------
+		---Total Net Payment :-112.0---
+	-----------------------------------
+
+

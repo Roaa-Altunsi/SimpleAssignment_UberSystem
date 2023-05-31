@@ -1,0 +1,107 @@
+--------------- Welcome to Uber ---------------
+--------- Current Date :  Thu Nov 25 11:47:33 AST 2021--------
+Command: Print_Report
+
+		--- Rider Detail are as Follows: ---
+
+			ID: 22005
+			Name: Fatima_AlYassin
+			Email :fat93@yahoo.com
+			Date of Birth :Sat Aug 15 00:00:00 AST 3868
+			Gender: F
+			Phone: 547871054
+			Address: Jeddah
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 12.0 SAR
+
+			Pickup Location: Rehab
+
+			Drop Location: AlSafa
+
+			Distance: 5.4 KM
+
+			Joining Date: Tue Apr 04 00:00:00 AST 3916
+
+			Rider Rating: 4.0
+-------------------------------------------------------------------------------------------
+		--- Captain Detail are as Follows: ---
+
+			ID: 505
+			Name: Yasser_Ali
+			Email :yass33@gmail.com
+			Date of Birth :Sat Oct 28 00:00:00 AST 3876
+			Gender: M
+			Phone: 547871054
+			Address: Rehab
+
+			Employee ID: 3633
+			Employee Description: Part_time
+			On Leave : true
+			Driving License No: 58416556
+			Total Rides: 114
+			Rating :4.58
+			-------------------------------------------------------------------------------------------
+		--- UberAdmin Detail are as Follows: ---
+
+			ID: 805
+			Name: Basher_Bandar
+			Email :basher@uber.com
+			Date of Birth :Fri May 28 00:00:00 AST 3875
+			Gender: M
+			Phone: 554803421
+			Address: Kandara
+
+			Employee ID: 1021
+			Employee Description: Supervisor
+			On Leave : false
+			Department: OperationX
+			-------------------------------------------------------------------------------------------
+		---Payment Details are as follows:---
+
+			Payment ID: 305
+			Payment Description: Cash
+			Payment Amount :15.0
+
+			Payment ID: 306
+			Payment Description: Cash
+			Payment Amount :8.0
+
+			Payment ID: 307
+			Payment Description: Cash
+			Payment Amount :14.0
+
+			Payment ID: 308
+			Payment Description: Wallet
+			Payment Amount :34.0
+			-------------------------------------------------------------------------------------------
+		---Bonus Details are as follows:---
+
+			BonusID: 905
+			Bonus Description: Weekly_Promotion
+			bonus Kilometer(s) :36.0
+
+			BonusID: 901
+			Bonus Description: Newly_Joined
+			bonus Kilometer(s) :17.0
+
+			BonusID: 902
+			Bonus Description: Referral
+			bonus Kilometer(s) :25.0
+
+			BonusID: 904
+			Bonus Description: 100_Ride_Achevement
+			bonus Kilometer(s) :125.0
+			-------------------------------------------------------------------------------------------
+		---Ride Details are as follows:---
+Ride Details are as follows:
+
+			Ride ID: 5005
+			Ride Type: UberX
+			Number of Seats: 7
+			Registration No.: SMA9141
+			-------------------------------------------------------------------------------------------
+		---Total Net Payment :-132.0---
+	-----------------------------------
+
+

@@ -1,0 +1,91 @@
+--------------- Welcome to Uber ---------------
+--------- Current Date :  Thu Nov 25 11:47:33 AST 2021--------
+Command: Print_Report
+
+		--- Rider Detail are as Follows: ---
+
+			ID: 22018
+			Name: Alyan_Sultan_Al_Qahtani
+			Email :alyan_Sultan@gmail.com
+			Date of Birth :Sun Jan 15 00:00:00 AST 3882
+			Gender: M
+			Phone: 537874123
+			Address: Dammam
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR
+
+			Pickup Location: Azizyah
+
+			Drop Location: Rehab
+
+			Distance: 5.3 KM
+
+			Joining Date: Sat Sep 04 00:00:00 AST 3915
+
+			Rider Rating: 3.7
+-------------------------------------------------------------------------------------------
+		--- Captain Detail are as Follows: ---
+
+			ID: 508
+			Name: Amna_Ayman
+			Email :amna.22@yahoo.com
+			Date of Birth :Thu Sep 17 00:00:00 AST 3868
+			Gender: F
+			Phone: 537874123
+			Address: Jamia
+
+			Employee ID: 3451
+			Employee Description: Full_time
+			On Leave : false
+			Driving License No: 84111256
+			Total Rides: 412
+			Rating :3.8
+			-------------------------------------------------------------------------------------------
+		--- UberAdmin Detail are as Follows: ---
+
+			ID: 803
+			Name: Maqbol_Alqahtani
+			Email :maqbol@uber.com
+			Date of Birth :Wed Sep 22 00:00:00 AST 3869
+			Gender: M
+			Phone: 523003344
+			Address: Kandara
+
+			Employee ID: 1054
+			Employee Description: GPS_Specialist
+			On Leave : true
+			Department: OperationXL
+			-------------------------------------------------------------------------------------------
+		---Payment Details are as follows:---
+
+			Payment ID: 308
+			Payment Description: Wallet
+			Payment Amount :34.0
+			-------------------------------------------------------------------------------------------
+		---Bonus Details are as follows:---
+
+			BonusID: 908
+			Bonus Description: Special_Promo2
+			bonus Kilometer(s) :2.5
+
+			BonusID: 904
+			Bonus Description: 100_Ride_Achevement
+			bonus Kilometer(s) :125.0
+
+			BonusID: 905
+			Bonus Description: Weekly_Promotion
+			bonus Kilometer(s) :36.0
+			-------------------------------------------------------------------------------------------
+		---Ride Details are as follows:---
+Ride Details are as follows:
+
+			Ride ID: 5018
+			Ride Type: UberX
+			Number of Seats: 4
+			Registration No.: OTS4365
+			-------------------------------------------------------------------------------------------
+		---Total Net Payment :-129.5---
+	-----------------------------------
+
+
